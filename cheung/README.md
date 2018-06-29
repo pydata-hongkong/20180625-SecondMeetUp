@@ -5,6 +5,7 @@ This directory stores the materials in Dr. Howard Cheung's presentation on _Demo
 * _double\_name.txt_: text file containing the double name information in the _conference\_session\_paper.txt_
 * _preamble.tex_: heading files for the author index _LaTeX_ file
 * _Presentaiton-v00.pdf_: presentation file shown on the presentation day
+* _README.md_: this description
 
 ## Running the files locally?
 
