@@ -1,0 +1,34 @@
+
+% document class definition
+\documentclass[letter, 10pt, oneside]{article}
+\setlength{\parskip}{0in}
+\setlength{\parindent}{0in}
+\textwidth = 470pt
+\linespread{1.1}
+\textheight = 630pt
+\oddsidemargin = 15pt
+\marginparsep = 4pt
+\marginparwidth = 0pt
+\hoffset = -0.5in
+\footskip = 10pt
+\pagestyle{empty}
+\setlength{\columnsep}{1in}
+\columnwidth = 3in
+
+% include packages
+\usepackage[pdftex, hidelinks]{hyperref} % for hyperlink
+\usepackage[utf8]{inputenc}
+\usepackage{supertabular} % for long table
+\usepackage{array} % for left-aligned cells
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\begin{document}
+
+\twocolumn[  % for two columns
+\begin{@twocolumnfalse}
+{\centering{\Large{\bf{Author Index}}} \\}
+\vspace{0.5in}
+\end{@twocolumnfalse}
+]
+\centering{
+\begin{supertabular}{p{2.25in} P{1in}}
