@@ -3,37 +3,37 @@ Time: Monday, 14/Jul/2014: 1:00pm - 3:00pm  •  Location: 214 A&B
 ID: 2175
 R-404A Alternative Refrigerant with Low Compressor Discharge Temperature
 Barbara Minor1, Vladimir Sulc2, Jeff Berge3, Michal Kolda4, Michal Hegar5
-1DuPont Fluoroproducts; 2Thermo King, Corp, Ingersoll Rand; 3Thermo King, Corp, Ingersoll Rand; 4Ingersoll Rand Equipment Manufacturing; 5Ingersoll Rand Equipment Manufacturing; barbara.h.minor@dupont.com
+1DuPont Fluoroproducts; 2Thermo King, Corp, Ingersoll Rand; 3Thermo King, Corp, Ingersoll Rand; 4Ingersoll Rand Equipment Manufacturing; 5Ingersoll Rand Equipment Manufacturing; noemail@email.com
 
 ID: 2250
 AHRI Low Global Warming Potential Alternative Refrigerants Evaluation Program (Low-GWP AREP) – Summary of Phase I Testing Results
 Xudong Wang, Karim Amrane
-Air-Conditioning, Heating, and Refrigeration Institute, United States of America; xwang@ahrinet.org
+Air-Conditioning, Heating, and Refrigeration Institute, United States of America; noemail@email.com
 
 ID: 2256
 Evaluation and Soft-Optimization for R410A Low-GWP Replacement Candidates through Testing and Simulation
 Yunho Hwang1, Abdullah Alabdulkarem1,2, Radia Eldeeb1, Vikrant Aute1, Reinhard Radermacher1
-1University of Maryland, College Park, United States of America; 2King Saud University, Riyadh, Saudi Arabia; radiame@umd.edu
+1University of Maryland, College Park, United States of America; 2King Saud University, Riyadh, Saudi Arabia; noemail@email.com
 
 ID: 2278
 An Evaluation of the Environmental Impact of Different Commercial Supermarket Refrigeration Systems Using Low Global Warming Potential Refrigerants
 Mohamed Beshr1, Vikrant Aute1, Omar Abdelaziz2, Brian Fricke2, Reinhard Radermacher1
-1University of Maryland, United States of America; 2Oak Ridge National Laboratory, USA; mbeshr@umd.edu
+1University of Maryland, United States of America; 2Oak Ridge National Laboratory, USA; noemail@email.com
 
 ID: 2328
 Assessment Of Life Cycle Climate Performance (LCCP) Tools For HVAC&R Applications With The Latest Next Generation Refrigerant Technology
 Stephen Anthony Kujak, Panayu Robert Srichai, Kenneth J. Schultz
-Ingersoll Rand, United States of America; skujak@trane.com
+Ingersoll Rand, United States of America; noemail@email.com
 
 ID: 2505
 Novel Reduced GWP Refrigerant Compositions for Stationary Air Conditioning
 Thomas J. Leck, Pavan K. Naicker, Joshua Hughes, Bianca Hydutsky
-DuPont, United States of America; Thomas.j.leck@dupont.com
+DuPont, United States of America; noemail@email.com
 
 ID: 2670
 Low GWP Refrigerants for Air Conditioning Applications
 Samuel F. Yana Motta, Mark W. Spatz, Ankit Sethi, Elizabet Vera Becerra
-Honeywell International Inc, Buffalo, NY, USA; Samuel.YanaMotta@honeywell.com
+Honeywell International Inc, Buffalo, NY, USA; noemail@email.com
 
  
 R-02: Ejectors
@@ -41,32 +41,32 @@ Time: Monday, 14/Jul/2014: 1:00pm - 3:00pm  •  Location: 214 C&D
 ID: 2188
 Analysis and Comparison of Two-Phase Ejector Performance Metrics for R134a and CO2 Ejectors
 Neal Lawrence1, Stefan Elbel1,2
-1University of Illinois at Urbana-Champaign; 2Creative Thermal Solutions, Inc.; ndlawre2@illinois.edu
+1University of Illinois at Urbana-Champaign; 2Creative Thermal Solutions, Inc.; noemail@email.com
 
 ID: 2287
 Two-dimensional Numerical Analysis on Ejector of Vapour Jet Refrigeration System
 Arun Kodamkayath Mani, Shaligram Tiwari, Mani Annamalai
-Mechanical Engineering Department, Indian Institute of Technology Madras,Chennai, India; mania@iitm.ac.in
+Mechanical Engineering Department, Indian Institute of Technology Madras,Chennai, India; noemail@email.com
 
 ID: 2291
 Three-dimensional Numerical Investigations on Ejector of Vapour Jet Refrigeration System
 Parveen Banu Jiautheen, Shaligram Tiwari, Mani Annamalai
-Department of Mechanical Engineering, Indian Institute of Technology Madras, India; mania@iitm.ac.in
+Department of Mechanical Engineering, Indian Institute of Technology Madras, India; noemail@email.com
 
 ID: 2306
 Thermodynamic Analysis Of Steam Ejector Refrigeration Cycle
 Shengchun Liu1, Chunyuan Zhu1, Hailin Li2
-1Tianjin Key Laboratory of Refrigeration Technology, School of Mechanical Engineering, Tianjin University of Commerce, China, People's Republic of; 2Department of Mechanical and Aerospace Engineering,West Virginia University; zhuchunyuan2014@163.com
+1Tianjin Key Laboratory of Refrigeration Technology, School of Mechanical Engineering, Tianjin University of Commerce, China, People's Republic of; 2Department of Mechanical and Aerospace Engineering,West Virginia University; noemail@email.com
 
 ID: 2403
 Experimental Study on Performance of Two-phase Ejector Refrigeration Cycle System with Two-throat Nozzle
 Li Qian Ren, Xian Min Guo, Xin Wei Guo, Tian Long Li
-Tianjin University of Commerce, People's Republic of China; xmguo@tjcu.edu.cn
+Tianjin University of Commerce, People's Republic of China; noemail@email.com
 
 ID: 2580
 Review on Ejector Efficiencies in Various Ejector Systems
 Fang Liu
-Shanghai University of Electric Power, Shanghai, China; louisaliu02@hotmail.com
+Shanghai University of Electric Power, Shanghai, China; noemail@email.com
 
  
 R-03: Transient Heat Exchanger Modeling
@@ -74,32 +74,32 @@ Time: Monday, 14/Jul/2014: 1:00pm - 3:00pm  •  Location: 218 A&B
 ID: 2171
 Transient pressure drop correlation between parallel minichannels during flow boiling of R134a
 Dolaana M. Khovalyg1,2, Predrag S. Hrnjak1, Anthony M. Jacobi1
-1University of Illinois at Urbana-Champaign, USA; 2ITMO University, Russian Federation; khovalyg.d@gmail.com
+1University of Illinois at Urbana-Champaign, USA; 2ITMO University, Russian Federation; noemail@email.com
 
 ID: 2247
 An Improved Moving Boundary Heat Exchanger Model with Pressure Drop
 Hongtao Qiao, Vikrant Aute, Reinhard Radermacher
-University of Maryland, United States of America; vikrant@umd.edu
+University of Maryland, United States of America; noemail@email.com
 
 ID: 2249
 A New Dynamic Heat Exchanger Model with Frosting and Defrosting
 Hongtao Qiao, Vikrant Aute, Reinhard Radermacher
-University of Maryland, United States of America; htqiao@umd.edu
+University of Maryland, United States of America; noemail@email.com
 
 ID: 2294
 Transient 1D heat exchanger model for the simulation of domestic cooling cycles working with R600a
 Erwin Berger, Martin Heimel, Stefan Posch, Raimund Almbauer, Martin Eichinger
-Graz University of Technology, Austria; posch@ivt.tugraz.at
+Graz University of Technology, Austria; noemail@email.com
 
 ID: 2319
 Investigation of the Dynamic Heat Transfer Coefficient of R-134a in a Horizontal Pipe
 Jan Philipp Rückert1, Gerhard Schmitz2
-1TuTech, Germany; 2Hamburg University of Technology; rueckert@tuhh.de
+1TuTech, Germany; 2Hamburg University of Technology; noemail@email.com
 
 ID: 2585
 Effect of Pulsation Width Modulation (PWM) on the Performance of an Evaporator
 Xiaofei Wang1, Ke Tang1,3, Predrag S. Hrnjak1,2
-1University of illinois at urbana champaign, United States of America; 2CTS, Urbana, IL 61802,United States of America; 3Zhejiang University, Hangzhou 310027, China; ktang@zju.edu.cn
+1University of illinois at urbana champaign, United States of America; 2CTS, Urbana, IL 61802,United States of America; 3Zhejiang University, Hangzhou 310027, China; noemail@email.com
 
  
 B-01: Building Controls
@@ -107,32 +107,32 @@ Time: Monday, 14/Jul/2014: 1:00pm - 3:00pm  •  Location: 218 C&D
 ID: 3370
 Integrating Li-Fi Wireless Communication and Energy Harvesting Wireless Sensor for Next Generation Building Management
 Qian Huang1, Xiaohang Li2, Mark Shaurette3
-1Physical Facilities, Purdue University, West Lafayette, IN, United States of America; 2ECE Department, Purdue University, West Lafayette, IN, United States of America; 3Building Construction Management Department, Purdue University, West Lafayette, IN, United States of America; huang168@purdue.edu
+1Physical Facilities, Purdue University, West Lafayette, IN, United States of America; 2ECE Department, Purdue University, West Lafayette, IN, United States of America; 3Building Construction Management Department, Purdue University, West Lafayette, IN, United States of America; noemail@email.com
 
 ID: 3303
 Low Energy Houses Heated By Biomass Boilers: Optimization Of The Heating System Control Strategy By Means Of Dynamic Simulation
 Elisa Carlon1,2, Markus Schwarz1, Matteo Rimoldi1,3, Laszlo Golicza1, Vijay Kumar Verma1, Alessandro Prada2, Christoph Schmidl1, Marco Baratieri2, Andrea Gasparella2, Walter Haslinger1
-1Bioenergy2020+ GmbH, Gewerbepark Haag 3, 3250 Wieselburg Land, Austria; 2Free University of Bozen-Bolzano, Universitätsplatz - piazza Università 5, 39100 Bozen-Bolzano, Italy; 3Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy; Elisa.Carlon@natec.unibz.it
+1Bioenergy2020+ GmbH, Gewerbepark Haag 3, 3250 Wieselburg Land, Austria; 2Free University of Bozen-Bolzano, Universitätsplatz - piazza Università 5, 39100 Bozen-Bolzano, Italy; 3Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy; noemail@email.com
 
 ID: 3494
 An Inexpensive Retrofit Technology for Reducing Peak Power Demand in Small and Medium Commercial Buildings
 James Nutaro, Teja Kuruganti, David Fugate, Michael Starke
-Oak Ridge National Laboratory, United States of America; nutarojj@ornl.gov
+Oak Ridge National Laboratory, United States of America; noemail@email.com
 
 ID: 3377
 Microgrids for Improving Manufacturing Energy Efficiency
 Terance J. Harper1, William J. Hutzel1, Athula Kulatunga1, J. Christopher Foreman1, Aaron L. Adams2
-1Purdue University, United States of America; 2Alabama A&M University, United States of America; hutzelw@purdue.edu
+1Purdue University, United States of America; 2Alabama A&M University, United States of America; noemail@email.com
 
 ID: 3568
 A Novel Human Machine Interface for Advanced Building Controls and Diagnostics
 Ritesh Khire, Francesco Leonardi, Paul Quimby, Soumik Sarkar
-United Technologies Research Center, United States of America; sarkars@utrc.utc.com
+United Technologies Research Center, United States of America; noemail@email.com
 
 ID: 3624
 Application of Near-Optimal Tower Control and Free Cooling on the Condenser Water Side for Optimization of Central Cooling Systems
 Rita Cristina Jaramillo, James E. Braun, W. Travis Horton
-Purdue University, West Lafayette, IN.; rjaramil@purdue.edu
+Purdue University, West Lafayette, IN.; noemail@email.com
 
  
 B-02: Building Design Issues & Optimization
@@ -140,32 +140,32 @@ Time: Monday, 14/Jul/2014: 1:00pm - 3:00pm  •  Location: 310
 ID: 3365
 On the Energy Performance Design of a Skilled Nursing Facility Building
 Giovanni Curculacos2, Gianluca Turchetto2, Ugo Mazzali1, Fabio Peron1, Piercarlo Romagnoni1, Francesca Cappelletti1, Fred Bauman3, Massimiliano Scarpa1
-1Università IUAV di Venezia, Italy; 2TFE Engineering; 3Center for the Built Environment; mazzali@iuav.it
+1Università IUAV di Venezia, Italy; 2TFE Engineering; 3Center for the Built Environment; noemail@email.com
 
 ID: 3503
 Deploying and Testing Integrated Design Roadmaps for Advanced Energy Retrofits
 Kristen Albee, Franca Trubiano, Meghan Brennan
-University of Pennsylvania, United States of America; kmalbee@outlook.com
+University of Pennsylvania, United States of America; noemail@email.com
 
 ID: 3135
 Rare Event Analysis of High Dimensional Building Operational Data Using Data Mining Techniques
 Cheng Fan, Fu Xiao, Shengwei Wang
-The Hong Kong Polytechnic University, Hong Kong S.A.R. (China); 11901679r@connect.polyu.hk
+The Hong Kong Polytechnic University, Hong Kong S.A.R. (China); noemail@email.com
 
 ID: 3487
 Robustness of Multi-Objective Optimization of Building Refurbishment to Suboptimal Weather Data
 Alessandro Prada1, Giovanni Pernigotto2, Francesca Cappelletti3, Andrea Gasparella1, Jan L. M. Hensen4
-1Free University of Bozen/Bolzano, Italy; 2University of Padova, Italy; 3University IUAV Venice, Italy; 4Eindhoven University of Technology, The Netherlands; andrea.gasparella@unibz.it
+1Free University of Bozen/Bolzano, Italy; 2University of Padova, Italy; 3University IUAV Venice, Italy; 4Eindhoven University of Technology, The Netherlands; noemail@email.com
 
 ID: 3321
 Advanced Energy Retrofit - Designing Integrated Design Roadmaps
 Franca Trubiano, Meghan Brennan, Kristen Albee
-University of Pennsylvania, United States of America; kalbee@design.upenn.edu
+University of Pennsylvania, United States of America; noemail@email.com
 
 ID: 3525
 Enhanced Performance Buildings Connected to District Heating Systems: Multi-Objective Optimisation Analysis
 Dario Prando1, Alessandro Prada1, Fabian Ochs2, Andrea Gasparella1, Marco Baratieri1
-1Free University of Bolzano, Italy; 2University of Innsbruck, Austria; marco.baratieri@unibz.it
+1Free University of Bolzano, Italy; 2University of Innsbruck, Austria; noemail@email.com
 
  
 C-01: Scroll Compressors I
@@ -173,32 +173,32 @@ Time: Monday, 14/Jul/2014: 1:00pm - 3:00pm  •  Location: 314
 ID: 1627
 Development Of An Integrated Solution For Multi Scroll Compressors With Wet Vapor Injection
 Stephane Bertagnolio, Eric Winandy, Sonia Vazquez
-Emerson Climate Technologies; stephane.bertagnolio@emerson.com
+Emerson Climate Technologies; noemail@email.com
 
 ID: 1425
 Numerical Simulation of Unsteady Flow in a Scroll Compressor
 Haiyang Gao
-Simerics, Inc, United States of America; hg@simerics.com
+Simerics, Inc, United States of America; noemail@email.com
 
 ID: 1255
 Seal Mechanism of Tip Seal in Scroll Compressor
 Mitsuhiro Fukuta1, Daisuke Ogi2, Masaaki Motozawa1, Tadashi Yanagisawa1, Shigeki Iwanami3, Tadashi Hotta3
-1Shizuoka University, Japan; 2Graduate School of Engineering, Shizuoka University, Japan; 3Denso Corporation; disk.og.2917@gmail.com
+1Shizuoka University, Japan; 2Graduate School of Engineering, Shizuoka University, Japan; 3Denso Corporation; noemail@email.com
 
 ID: 1200
 Numerical Simulation Of Three-dimension Unsteady Flow In The Compression Chambers Of A Scroll Compressor
 Shuanglai Liu, Xiaoli Kang, Caixia Shan, Yusheng Hu
-Compressor and Motor Institute of Gree Electric Appliances, Inc. of Zhuhai, China, People's Republic of; shuanglai89@163.com
+Compressor and Motor Institute of Gree Electric Appliances, Inc. of Zhuhai, China, People's Republic of; noemail@email.com
 
 ID: 1352
 Development of Scroll Compressor for 16HP VRF System
 Fumikazu Nagaoka, Masashi Myogahara, Taro Kato
-Mitsubishi Electric Corporation, Japan; nagaoka.fumikazu@cj.mitsubishielectric.co.jp
+Mitsubishi Electric Corporation, Japan; noemail@email.com
 
 ID: 1442
 A Study on PWM Bypass Capacity Control of Scroll Compressors
 Ryota Iijima, Masaki Koyama
-Hitachi, Ltd., Japan; ryota.iijima.nj@hitachi.com
+Hitachi, Ltd., Japan; noemail@email.com
 
  
 C-02: Novel Compressors I
@@ -206,2052 +206,30 @@ Time: Monday, 14/Jul/2014: 1:00pm - 3:00pm  •  Location: 322
 ID: 1669
 Twenty Years of Compressor Innovation at NTU, Singapore
 Kim Tiow Ooi
-School of Mechanical and Aerospace Engineering, Nanyang Technological University, 50 Nanyang Avenue, Singapore 639798; mktooi@ntu.edu.sg
+School of Mechanical and Aerospace Engineering, Nanyang Technological University, 50 Nanyang Avenue, Singapore 639798; noemail@email.com
 
 ID: 1134
 Modelling and Simulation of the Dynamics of Cross Vane Expander-Compressor Unit for Vapour Compression Cycle
 Ken Shaun Yap1,2, Kim Tiow Ooi1, Anutosh Chakraborty1
-1Nanyang Technological University, Singapore, Singapore; 2TUM CREATE; ksyap2@e.ntu.edu.sg
+1Nanyang Technological University, Singapore, Singapore; 2TUM CREATE; noemail@email.com
 
 ID: 1435
 A Chiller Control Algorithm for Multiple Variable-speed Centrifugal Compressors
 Piero Caballero1, Chiang Shih1, W. Turner Thornton2, Joost J. Brasz2
-1Florida State University, United States of America; 2Danfoss Turbocor, United States of America; plc11@my.fsu.edu
+1Florida State University, United States of America; 2Danfoss Turbocor, United States of America; noemail@email.com
 
 ID: 1177
 Influence of Volumetric Displacement and Aspect Ratio on the Performance Metrics of the Rotating Spool Compressor
 Craig R. Bradshaw1, Greg Kemp1, Joseph Orosz1, Eckhard A. Groll2
-1Torad Engineering, United States of America; 2Purdue University, United States of America; craig.bradshaw@toradengineering.com
+1Torad Engineering, United States of America; 2Purdue University, United States of America; noemail@email.com
 
 ID: 1178
 Loss Analysis of Rotating Spool Compressor Based on High-Speed Pressure Measurements
 Craig R. Bradshaw1, Greg Kemp1, Joseph Orosz1, Eckhard A. Groll2
-1Torad Engineering, United States of America; 2Purdue University, United States of America; craig.bradshaw@toradengineering.com
+1Torad Engineering, United States of America; 2Purdue University, United States of America; noemail@email.com
 
 ID: 1489
 Small-Scale and Oil-Free Turbocompressor for Refrigeration Applications
 Jürg Schiffmann
-Ecole Polytechnique Federale de Lausanne, Switzerland; jurg.schiffmann@epfl.ch
-
- 
-R-04: Alternative Refrigerant Performance Comparisons
-Time: Monday, 14/Jul/2014: 3:30pm - 5:30pm  •  Location: 214 A&B
-ID: 2371
-Experimental Performance Investigation of New Low-GWP Refrigerants for Use in Two-Phase Evaporative Cooling of Electronics
-Alexis Nicolette-Baker, Elizabeth Garr, Abhijit Sathe, Steve O'Shaughnessey
-Parker Hannifin Corporation, United States of America; alexis.nicolettebaker@parker.com
-
-ID: 2582
-Performance of an R-410A Room Air Conditioner Modified for Use with R-1234ze
-Charles Janicki1, Konrad Hermann2, John Neuman1, Patrick Riley3, Margaret M. Mathison1
-1Marquette University; 2Kuhn North America; 3Rexnord Corporation; charles.janicki@marquette.edu
-
-ID: 2381
-Performance of R410A and R22 Low GWP Alternative Refrigerants at Elevated Ambient Temperatures
-Kenneth J. Schultz
-Ingersoll Rand, United States of America; kschultz@trane.com
-
-ID: 2515
-Theoretical analysis of low GWP mixture R600a/R1234ze as a possible alternative to R600a in domestic refrigerators
-Jinyou Qiu, Hua Zhang, Zilong Wang, Zhigang Zhou
-Institute of Refrigeration and Cryogenic Engineering, University of Shanghai for Science and Technology, Shanghai, China; junior51020@163.com
-
-ID: 2275
-Assessment of Environmentally Friendly Refrigerants for Window Air Conditioners
-Bo Shen, Pradeep Bansal
-ORNL, United States of America; bansalpk@ornl.gov
-
-ID: 2349
-Energy Efficiency of a Chiller using R410A or R32
-Bachir Bella1, Norbert Kaemmer1, Riccardo Brignoli2, Claudio Zilio3
-1Emerson Climate Technologies, Germany; 2Industrial Engineering Department – University of Padova, Italy; 3Department of Management and Technology – University of Padova, Italy; zilio@gest.unipd.it
-
-ID: 2671
-Refrigerants with Low Environmental Impact for Refrigeration Applications
-Samuel F. Yana Motta, Mark W. Spatz, Gustavo Pottker, Gregory L. Smith
-Honeywell International Inc, Buffalo, NY, USA; Samuel.YanaMotta@honeywell.com
-
- 
-R-05: Refrigerant & Oil Properties
-Time: Monday, 14/Jul/2014: 3:30pm - 5:30pm  •  Location: 214 C&D
-ID: 2465
-Vapor-liquid equilibrium properties of binary mixture refrigerants (R1234ZE+R290, R290+R227ea)
-Yingxia Qi, Hua Zhang, Wei Zhao, Yefeng Liu, Xunhai Liu
-University of Shanghai for Science and Technology, China, People's Republic of; qipeggy@126.com
-
-ID: 2463
-Thermodynamic and Heat Transfer Properties of Al2O3 Nanolubricants
-Lorenzo Cremaschi, Thiam Wong, Andrea A. M. Bigi
-Oklahoma State University, United States of America; cremasc@okstate.edu
-
-ID: 2407
-A New Method for Calculating Viscosity and Solubility of Lubricant- Refrigerant Mixtures
-Jung-Tsung Hung, Jeng-Shiang Tsaih, Hsu-Hua Tang
-Patech Fine Chemicals Co., Ltd., Taiwan, Republic of China; tzung@patechfc.com.tw
-
-ID: 2448
-A Thermodynamic Property Model for the R-134a/245fa Mixture
-Ryo Akasaka1, Yukihiro Higashi2
-1Kyushu Sangyo University, Japan; 2Iwaki Meisei University, Japan; ryo-a@ip.kyusan-u.ac.jp
-
-ID: 2462
-Standardized Polynomials for Fast Evaluation of Refrigerant Thermophysical Properties
-Vikrant Aute, Reinhard Radermacher
-University of Maryland, United States of America; vikrant@umd.edu
-
-ID: 2700
-Low GWP Refrigerant and Partial Miscible Lubricant
-Pierre Ginies1, Philippe Dewitte1, Marie France Terrier2, Mehdi Charni2
-1Danfoss Commercial Compressors, 01600 Trevoux ; France; 2CNAM IFFI, 7503 Paris ; France; p.ginies@danfoss.com
-
- 
-R-06: Heat Exchanger Flow Distribution Effects & Analysis
-Time: Monday, 14/Jul/2014: 3:30pm - 5:30pm  •  Location: 218 A&B
-ID: 2147
-Quantification of Liquid Refrigerant Distribution in Parallel Flow Microchannel Heat Exchanger Using Infrared Thermography
-Huize Li, Predrag S. Hrnjak
-University of Illinois at Urbana-Champaign, United States of America; huizeli2@illinois.edu
-
-ID: 2122
-Comparison and Generalization of R410A and R134a Distribution in the Microchannel Heat Exchanger with the Vertical Header
-Yang Zou1, Predrag S. Hrnjak1,2
-1University of Illinois at Urbana-Champaign, United States of America; 2Creative Thermal Solutions; yangzou1@illinois.edu
-
-ID: 2162
-Principles Of Refrigerant Circuit Optimization In Single Row Microchannel Condensers
-Sunil Mehendale1, Vikrant Aute2, Reinhard Radermacher2
-1Michigan Technological University, United States of America; 2University of Maryland, College Park, MD, United States of America; ssmehend@mtu.edu
-
-ID: 2180
-Interleaved Circuitry And Hybrid Control As Means To Reduce The Effects Of Flow Maldistribution.
-Christian K. Bach, Eckhard A. Groll, James E. Braun, W. Travis Horton
-Purdue University in West Lafayette, United States of America; bachc@purdue.edu
-
-ID: 2212
-Single-phase Flow Pressure Drop of R134a Vapor and Liquid in the Vertical Header of Multi-Pass Microchannel Heat Exchanger
-Yang Zou1, Predrag S. Hrnjak1,2
-1University of Illinois at Urbana-Champaign, United States of America; 2Creative Thermal Solutions; yangzou1@illinois.edu
-
-ID: 2396
-Determination of Refrigerant Path Number for Fin-tube Condenser Considering Heat Transfer Performance and Pumping Power
-Won Jong Lee, Ji Hwan Jeong
-Pusan National University, Korea, Republic of (South Korea); keias71@naver.com
-
-ID: 2542
-Single phase pressure drop in round cylindrical headers of parallel flow MCHXs
-Tao Ren1, Amir Chavoshi2, Guoliang Ding1, Predrag S. Hrnjak2,3
-1Institute of Refrigeration and Cryogenics, Shanghai Jiao Tong University, Shanghai 200240, China; 2Air Conditioning and Refrigeration Center, Department of Mechanical Engineering, University of Illinois at Urbana Champaign, 1206 West Green Street, Urbana, IL 61801, USA; 3CTS, 2209 Willow Rd, Urbana IL 61802; chavosh2@illinois.edu
-
- 
-B-03: Model Predictive Controls I
-Time: Monday, 14/Jul/2014: 3:30pm - 5:30pm  •  Location: 218 C&D
-ID: 3636
-A State-Space Modeling Approach and Subspace Identification Method for Predictive Control of Multi-Zone Buildings with Mixed-Mode Cooling
-Jianjun Hu, Panagiota Karava
-School of Civil Engineering and Division of Construction Engineering and Management, Purdue University, United States of America; hu24@purdue.edu
-
-ID: 3617
-Experimental Demonstration of Model Predictive Control in a Medium-Sized Commercial Building
-Pengfei Li, Dapeng Li, Draguna Vrabie, Sorin Bengea, Stevo Mijanovic
-United Technologies Research Center, United States of America; lip1@utrc.utc.com
-
-ID: 3341
-Optimal Chiller and Thermal Energy Storage Design for Building HVAC Systems
-David I. Mendoza-Serrano, Donald J. Chmielewski
-Illinois Institute of Technology, United States of America; chmielewski@iit.edu
-
-ID: 3635
-Impact Of Solar Irradiance Data On MPC Performance Of Multizone Buildings
-Donghun Kim1, Lucas Witmer2, Jeffrey R. S. Brownson2, James E. Braun1
-1Ray W. Herrick Laboratories, School of Mechanical Engineering, Purdue University; 2John and Willie Leone Family Department of Energy and Mineral Engineering, The Pennsylvania State University; kim1077@purdue.edu
-
-ID: 3638
-Stochastic Model Predictive Control of Mixed-mode Buildings Based on Probabilistic Interactions of Occupants With Window Blinds
-Seyed Amir Sadeghi, Panagiota Karava
-Purdue University, West Lafayette, IN, United States of America; sadeghis@purdue.edu
-
-ID: 3616
-Model Predictive Control and Fault Detection and Diagnostics of a Building Heating, Ventilation, and Air Conditioning System
-Veronica Adetola1, Sorin Bengea1, Keunmo Kang1, Anthony Kelman2, Francesco Leonardi1, Pengfei Li1, Teems Lovett1, Soumik Sarkar1, Sergey Vichik2
-1United Technologies Research Center, United States of America; 2University of California, Berkeley; lip1@utrc.utc.com
-
- 
-C-03: Scroll Compressors II
-Time: Monday, 14/Jul/2014: 3:30pm - 5:30pm  •  Location: 314
-ID: 1652
-Energy Saving Potential in Existing Compressors
-Roberto Cipollone, Diego Vittorini
-University of L'Aquila, Italy; diego.vittorini@graduate.univaq.it
-
-ID: 1299
-Experimental Pressure-Volume diagrams of scroll compressors
-Alain Picavet, Pierre Ginies
-Danfoss Commercial Compressors, France; p.ginies@danfoss.com
-
-ID: 1557
-The scroll compressor with internal cooling system – conception and CFD analysis
-Józef Rak, Sławomir Pietrowicz, Zbigniew Gnutek
-Wrocław University of Technology, Poland; jozef.rak@pwr.wroc.pl
-
-ID: 1558
-The Scroll Compressor With Internal Cooling System In Cryogenics Applications
-Józef Rak, Sławomir Pietrowicz, Zbigniew Gnutek
-Wrocław University of Technology, Poland; jozef.rak@pwr.wroc.pl
-
-ID: 1444
-Simulation study on the performance of an Injection Scroll Compressor in a Heat Pump for Electric Vehicles
-Jongho Jung1, Dongwoo Kim1, Yongseok Jeon1, Yongchan Kim2
-1Graduate School of Mechanical Engineering, Korea University, Korea, Republic of (South Korea); 2Department of Mechanical Engineering, Korea University, Korea, Republic of (South Korea); doublewin@korea.ac.kr
-
-ID: 1136
-Gas Pulsation Control Using a Shunt Pulsation Trap
-Paul Xiubao Huang1, Sean Yonkers1, David Hokey2
-1Hi-Bar MC Tech, United States of America; 2GE Oil and Gas, United States of America; paulxbh@yahoo.com
-
- 
-C-04: Novel Compressors II
-Time: Monday, 14/Jul/2014: 3:30pm - 5:30pm  •  Location: 322
-ID: 1378
-An update on the Performance and Operating Characteristics of a Novel Rotating Spool Compressor -
-Joseph Orosz, Craig R. Bradshaw, Greg Kemp, Eckhard A. Groll
-Torad Engineering, United States of America; joe.orosz@toradengineering.com
-
-ID: 1644
-Performance and Operating Characteristics of a Novel Positive-Displacement Oil-Free CO2 Compressor
-Orkan Kurtulus1, Bin Yang1, Dominique Lumpkin1, Eckhard A. Groll1, Lee Jestings2, Ricardo Conde3
-1Mechanical Engineering, Purdue University, West Lafayette, IN; 2S-Ram Dynamics, Franklin, TN; 3ReGen Power Systems, New Salem, MA; orkan@purdue.edu
-
-ID: 1418
-Compressor with Turning-Paired Vane and Piston
-Kiyoshi Sawai1, Manabu Doi1, Noriaki Ishii2, Hiroaki Nakai3, Hirofumi Yoshida3, Takashi Morimoto3
-1Hiroshima Institute of Thechnology; 2Osaka Electro Communication University; 3Panasonic Corporation; sawai@me.it-hiroshima.ac.jp
-
-ID: 1373
-Experimental Investigation of Water Injection in an Oil-Free Co-rotating Scroll Machinery for Compressed Air Energy Storage
-Luis Mendoza Toledo1, Angel Iglesias2, Daniel Favrat3, Jürg Schiffmann1
-1Laboratory for Applied Mechanical Design, Ecole Polytechnique Fédérale de Lausanne; 2Enairys Powertech SA, EPFL Innovation Park,; 3Energy Center, Ecole Polytechnique Fédérale de Lausanne; luis.mendoza@epfl.ch
-
-ID: 1297
-Optimized design for micro Wankel compressor used in space-borne vapor compression heat pump
-Yuting Wu, Chongfang Ma, Xia Chen, Chunxu Du
-Beijing University of Technology, China, People's Republic of; wuyuting@bjut.edu.cn
-
-ID: 1704
-Practical Heat Pumps In Cold Climates – An Enabling Technology
-Thomas Walter, Travis Jonas
-Mechanical Solutions, Inc., United States of America; travis.jonas@mechsol.com
-
- 
-R-07: Heat Pumps I
-Time: Tuesday, 15/Jul/2014: 9:45am - 11:45am  •  Location: 214 A&B
-ID: 2436
-Field Evaluation for Air-source Transcritical CO2 Heat Pump Water Heater with Optimal Pressure Control
-Bin Hu1, Yongning He1, Shouguo Wang2, Feng Cao1, Ziwen Xing1
-1School of Energy and Power Engineering, Xi’an Jiaotong University, Xi’an, China; 2Guodian Science & Technology Research Institute Beijing Branch, Beijing, China; bxh140030@gmail.com
-
-ID: 2528
-Experimental investigation on the influencing factors of a transcritical CO2 heat pump
-J.L. Ma1, C.H. Liu1, Y. Hou1,2, T.W. Lai1
-1School of Energy and Power Engineering, Xi'an Jiaotong University, Xi'an, China; 2State Key Laboratory of Multiphase Flow in Power Engineering, Xi'an Jiaotong University, Xi'an, China; laitianwei@mail.xjtu.edu.cn
-
-ID: 2455
-Development Of An Industrial High Temperature Heat Pump With Twin Screw Compressor
-Yongning He, Dongfang Yang, Feng Cao, Gang Li
-Xi'an Jiaotong University, China, People's Republic of; yongning.h2010@gmail.com
-
-ID: 2345
-Evaluation of performance of Heat pump system using R32 and HFO mixed refrigerant.
-Shigeharu Taira, Tomoyuki Haikawa, Hayato Nuno
-DAIKIN INDUSTRIES,LTD, Japan; shigeharu.taira@daikin.co.jp
-
-ID: 2493
-Development of Flat Tube Heat Exchanger for Heat Pump Air Conditoner
-Takuya Matsuda1, Akira Ishibashi1, Takashi Okazaki1, Keisuke Hokazono2, Daisuke Shimamoto2, Hiroki Okazawa2
-1Living Environment Systems Laboratory, Mitsubishi Electric Corporation; 2Air-Conditioning & Refrigeration Systems Works, Mitsubishi Electric Corporation; matutaku2020cosmoplt@gmail.com
-
-ID: 2674
-Study on Energy-Saving Performance of a Novel CO2 Heat Pump with Applications in Dairy Processes
-Yefeng Liu1, Eckhard A. Groll2, Orkan Kurtulus2, Kazuaki Yazawa2
-1University of Shanghai for Science &Technology, China; 2Purdue university, United States of America; liu1365@purdue.edu
-
- 
-R-08: Vapor Compression Cycle Enhancements I
-Time: Tuesday, 15/Jul/2014: 9:45am - 11:45am  •  Location: 214 C&D
-ID: 2231
-Investigation of Application of Suction Line Heat Exchanger in R290 Air Conditioner with Small Diameter Copper Tube
-Tao Ren1, Guoming Wu1, Guoliang Ding1, Yongxin Zheng2, Yifeng Gao2, Song Ji2
-1Institute of Refrigeration and Cryogenics, Shanghai Jiao Tong University, China, People's Republic of; 2International Copper Association Shanghai Office; tren@sjtu.edu.cn
-
-ID: 2284
-Technologies to Improve the Performance of A/C Systems in Hot Climate Regions
-Ammar M. Bahman, Eckhard A. Groll, W. Travis Horton, James E. Braun
-Ray W. Herrick Laboratories, Purdue University, United States of America; abahman@purdue.edu
-
-ID: 2443
-Analytical Study on the Performance Characteristics of a Liquid Injection Refrigeration Cycle.
-Yongseok Jeon1, Sanghun Lee1, Jongho Jung1, Yongchan Kim2
-1Graduate school of Mechanical Engineering, Korea university, Korea, Republic of (South Korea); 2Department of Mechanical Engineering, Korea university, Korea, Republic of (South Korea); silverriver@korea.ac.kr
-
-ID: 2631
-Application Of Oil Flooded Compression With Regeneration To A Packaged Heat Pump System
-Bin Yang, Timothy N. Blatchley, Christian K. Bach, James E. Braun, W. Travis Horton, Eckhard A. Groll
-Purdue University, United States of America; yang62@purdue.edu
-
-ID: 2111
-Experimental Investigation of Vapor Injected Compression for Cold Climate Heat Pumps
-Christian K. Bach1, Bernhard Vetsch2, Eckhard A. Groll1, W. Travis Horton1, James E. Braun1
-1Purdue University in West Lafayette, United States of America; 2Interstate University of Applied Sciences of Technology NTB in Buchs, Switzerland; bachc@purdue.edu
-
-ID: 2675
-Effects of Vapor Injected Compression, Hybrid Evaporator Flow Control, and Other Parameters on Seasonal Energy Efficiency.
-Christian K. Bach, Eckhard A. Groll, James E. Braun, W. Travis Horton
-Purdue University in West Lafayette, United States of America; bachc@purdue.edu
-
- 
-R-09: Gas Cooling & Condensing Heat Transfer
-Time: Tuesday, 15/Jul/2014: 9:45am - 11:45am  •  Location: 218 A&B
-ID: 2208
-HFO1234ze(Z) saturated vapour condensation inside a brazed plate heat exchanger
-Giovanni A. Longo1, Claudio Zilio1, Giulia Righetti1, J. Steven Brown2
-1University of Padova - DTG, Italy; 2The Catholic University of America, US; tony@gest.unipd.it
-
-ID: 2276
-A Model for Performance Prediction of Brazed Plate Condensers with Conventional and Alternative Lower GWP Refrigerants
-Radia Eldeeb, Vikrant Aute, Reinhard Radermacher
-University of Maryland, College Park, United States of America; radiame@umd.edu
-
-ID: 2283
-Heat Transfer Characteristics of the Non-uniform Grooved Tube considering Tube Expansion
-Sangmu Lee1, Akira Ishibashi2, Takuya Matsuda3
-1Shizuoka Works, Mitsubishi Electric Corporation, Japan; 2Living Environment Systems Laboratory, Mitsubishi Electric Corporation, Japan; 3Living Environment Systems Laboratory, Mitsubishi Electric Corporation, Japan; Lee.Sangmu@db.MitsubishiElectric.co.jp
-
-ID: 2227
-A Discussion about the Methodology to Validate the Correlations of Heat Transfer Coefficients and Pressure Drop during the Condensation in a Finned-Tube Heat Exchanger
-Alessandro Pisano1, Santiago Martinez-Ballester1, José M. Corberán1, Fernando Hidalgo Monpeán2, Ferdando Illán Gómez2, J-Ramón García Cascales2
-1Institute for Energy Engineering, Universitat Politècnica de València, Spain; 2Thermal and Fluid Engineering Department, Technical University of Cartagena, Spain; apisano@iie.upv.es
-
-ID: 2551
-Pressure Drop in Condensing Superheated Zone
-Melissa Meyer1, Predrag S. Hrnjak1,2
-1Air Conditioning and Refrigeration Center, University of Illinois at Urbana-Champaign; 2Creative Thermal Solutions, Urbana, Illinois; mcmeyer4@illinois.edu
-
-ID: 2113
-Theoretical And Experimental Analysis Of Supercritical Carbon Dioxide Cooling
-Martin van Eldik, Paul Marius Harris, Werner Heinrich Kaiser, Pieter Gerhardus Rousseau
-North-West University, South Africa; martin.vaneldik@nwu.ac.za
-
- 
-B-04: HVAC Systems
-Time: Tuesday, 15/Jul/2014: 9:45am - 11:45am  •  Location: 218 C&D
-ID: 3447
-The Effect Of Seasonal Variation On Thermal Performance Of Horizontal Slinky-Loop Ground Heat Exchanger
-Salsuwanda Selamat1, Akio Miyara2
-1Graduate School of Science and Engineering, Saga University, Japan; 2Department of Mechanical Engineering, Saga University, Japan; salsuwanda@unimap.edu.my
-
-ID: 3656
-Techno-Economic Analysis of Heat Pump and Cogeneration Systems for a High Performance Midrise Apartment in the Canadian Climate
-Martin Kegel, Justin Tamasauskas, Roberto Sunye, Daniel Giguere
-Natural Resources Canada, CanmetENERGY, Quebec, Canada; jtamasau@nrcan.gc.ca
-
-ID: 3361
-A Study on a New Performance Rating Approach for a Multi-Split (VRF) Air-Conditioning System
-Xiaogen Su, Qiang Liu
-Emerson Climate Technologies, Asia Pacific, China, People's Republic of; Xiaogen.su@emerson.com
-
-ID: 3619
-Improving HVAC Performance Through Spatiotemporal Analysis of Building Thermal Behavior
-Michael Vincent Georgescu, Igor Mezic
-University of California, Santa Barbara, United States of America; mvgeorge@engineering.ucsb.edu
-
-ID: 3254
-Development of an Empirical Passive Chilled Beam Model for use in Building Simulation
-Janghyun Kim1, James E. Braun1,2, Athanasios Tzempelikos1,2, W. Travis Horton1,2
-1Ray W. Herrick Laboratories, School of Mechanical Engineering, Purdue University, United States of America; 2School of Civil Engineering, Purdue University, United States of America; kim1302@purdue.edu
-
-ID: 3522
-Study Of Pool Fire Heat Release Rate Using Video Fire Detection
-Arthur Kwok Keung Wong, Nai-Kong Fong
-Department of Building Services Engineering, The Hong Kong Polytechnic University, Hong Kong S.A.R. (China); benkfong@polyu.edu.hk
-
- 
-B-05: Airflow & Ventilation Systems
-Time: Tuesday, 15/Jul/2014: 9:45am - 11:45am  •  Location: 310
-ID: 3661
-Analysis of IAQ Based on Modeling of Building Envelope Coupled with CFD&HT Room Airflow
-Roser Capdevila1, Oriol Lehmkuhl1,2, Joaquim Rigola1, López Joan1, Assensi Oliva1
-1Heat and Mass Transfer Technological Center (CTTC), Universitat Politècnica de Catalunya - BarcelonaTech (UPC), Terrassa (Barcelona), Spain; 2Termo Fluids, S.L., Terrassa (Barcelona), Spain; roser@cttc.upc.edu
-
-ID: 3471
-Experimental Study on Extremum Seeking Control for Efficient Operation of Air-side Economizer
-Baojie Mu1, Yaoyu Li2, John E. Seem3
-1University of Texas at Dallas, United States of America; 2University of Texas at Dallas, United States of America; 3High Altitude Trading Inc., United States of America; Baojie.Mu@utdallas.edu
-
-ID: 3614
-Energy Modeling of a Botanical Air Filter
-Daniel W. Newkirk1, William J. Hutzel2, Michael Dana3, Ming Qu4
-1Purdue University, United States of America; 2Purdue University, United States of America; 3Purdue University, United States of America; 4Purdue University, United States of America; dnewkirk@purdue.edu
-
-ID: 3511
-Numerical Study Of The Effect Of Air Terminal Layouts On The Performance Of Stratum Ventilation System
-Ting Yao, Zhang Lin
-Division of Building Science and Technology, City University of Hong Kong, Hong Kong S.A.R. (China); tingyao-c@my.cityu.edu.hk
-
-ID: 3173
-Energy Conservation Potential By Optimization Of Air Flow Rate Of Mechanical Ventilation
-Bing Gu1, Joerg Schmid2, Michael Schmidt3
-1Forschungsgesellschaft HLK Stuttgart mbH, Germany; 2HLK Stuttgart GmbH, Germany; 3Institute of Building Energetics, University of Stuttgart, Germany; bing.gu@fghlk.de
-
-ID: 3112
-Heat Release Rate of an Open Kitchen Fire of Small Residential Units in Tall Buildings
-W.K. Chow
-The Hong Kong Polytechnic University, Hong Kong S.A.R. (China); beelize@polyu.edu.hk
-
- 
-C-05: Rotary Compressors
-Time: Tuesday, 15/Jul/2014: 9:45am - 11:45am  •  Location: 314
-ID: 1668
-Oil-Less Swing Compressor Development
-Jason James Hugenroth
-Inventherm, Baton Rouge, Louisiana, USA; jason.hugenroth@inventherm.com
-
-ID: 1651
-Performance Enhancement in Sliding Vane Rotary Compressors through a Sprayed Oil Injection Technology
-Giuseppe Bianchi1, Roberto Cipollone1, Stefano Murgia2, Giulio Contaldi2
-1University of L'Aquila, Italy; 2Ing. Enea Mattei S.p.A., Vimodrone (Milan), Italy; giuseppe.bianchi@graduate.univaq.it
-
-ID: 1214
-The Mechanism Discuss of Periodic Sound in Rolling Piston Compressor under Low Operating Frequency in Air-conditioner System
-Huanhuan Gu, Rongting Zhang, Yusheng Hu
-Gree Electric Appliance, Inc. of Zhuhai, China, People's Republic of; huan746@163.com
-
-ID: 1226
-Rotary Compressor With The Stationary Crankshaft
-Nelik Dreiman
-Retiered.Tecumseh Products Co, United States of America; ndreiman@frontier.com
-
-ID: 1350
-Development of a miniature Twin Rotary Compressor
-Jeong-Bae Lee, Ui-Yoon Lee, Jin-Ah Chung, Un-Seop Lee
-Samsung Electronics, Korea, Republic of (South Korea); trizway@gmail.com
-
-ID: 1215
-A Novel Structure of High Efficiency Rotary Compressor
-Linbo Lv, Liping Ren, Jia Xu, Yusheng Hu
-Gree Electric Appliances, Inc. of Zhuhai, China, People's Republic of; lvlinbo1022@163.com
-
- 
-C-06: Dynamic Compressors
-Time: Tuesday, 15/Jul/2014: 9:45am - 11:45am  •  Location: 322
-ID: 1329
-Increasing the Stable Operating Range of a Fixed-Geometry Variable-Speed Centrifugal Compressor
-Joost J. Brasz
-Danfoss Turbocor Compressors, United States of America; jbrasz@danfoss.com
-
-ID: 1498
-Using Magnetic Bearing Orbit Information to Maximize Centrifugal Compressor Efficiency at Off-Design Conditions
-W. Turner Thornton, Joost J. Brasz
-Danfoss Turbocor, United States of America; tthornton@danfoss.com
-
-ID: 1123
-Non Adiabatic Centrifugal Compressor Gas Dynamic Performance Definition
-Kristina Soldatova
-Sankt-Peterburg State Polytechnical University, Russian Federation; buck02@list.ru
-
-ID: 1165
-Supersonic Axial Compressor Stage Simplified Analysis
-Kristina Soldatova1, Yuri Galerkin2
-1Sankt-Peterburg State Polytechnical University, Russian Federation; 2Sankt-Peterburg State Polytechnical University, Russian Federation; buck02@list.ru
-
-ID: 1225
-Centrifugal Compressor Performance Deviations with Various Refrigerants, Impeller Sizes and Shaft Speeds
-Yuanjie Wu, Chris Thilges
-Ingersoll Rand -Trane, United States of America; jim.wu@irco.com
-
-ID: 1393
-Performance Analysis of Centrifugal Compressor under Multiple Working Conditions Based on Time-weighted Average
-Yuanyang Zhao, Jun Xiao, Liansheng Li, Qichao Yang, Guangbin Liu, Le Wang, Bin Tang
-State key laboratory of compressor technology, Hefei General Machinery Research Institute, Hefei 210031, P. R. China, China, People's Republic of; yyzhao2@gmail.com
-
- 
-R-10: Heat Pumps II
-Time: Tuesday, 15/Jul/2014: 1:30pm - 3:30pm  •  Location: 214 A&B
-ID: 2233
-Thermodynamic Assessment of High-Temperature Heat Pumps for Heat Recovery
-Chieko Kondou, Shigeru Koyama
-Kyushu University, Japan; kondo.chieko.162@m.kyushu-u.ac.jp
-
-ID: 2161
-Theoretical Study of A Thermoelectric-assisted Vapor Compression Cycle for Air-source Heat Pump Applications
-Lin Zhu, Jianlin Yu
-Xi’an Jiaotong University, China, People's Republic of; lindaxjtu@gmail.com
-
-ID: 2301
-Exergy Based Methodology for Optimized Integration of Heat Pumps in Industrial Processes
-Karim Besbes1,2, Assaad Zoughaib1, Florence De Carlan2, Jean-Louis Peureux2
-1CES Mines ParisTech, France; 2EDF, France; karim.besbes@mines-paristech.fr
-
-ID: 2369
-Accelerated Thermal Cycling test for Heat Exchangers Used in Reversible Heat Pump
-Chad D. Bowers1, George Baker2, Stefan Elbel1,3, Predrag S. Hrnjak1,3
-1Creative Thermal Solutions, United States of America; 2Modine Manufacturing; 3University of Illinois; chad.bowers@creativethermalsolutions.com
-
-ID: 2245
-Thermal Comfort Evaluation of a Heat Pump System using Induced-air Supply Unit
-Jiazhen Ling1, Jian Xu2,3, Vikrant Aute1, Reinhard Radermacher1
-1University of Maryland, College Park, United States of America; 2Zhejiang University, Zhejiang, P.R.China; 3Zhejiang Dun' an Artificial Environmental Co, Ltd, Zhejiang, P.R.China; jiazhen@umd.edu
-
-ID: 2246
-Optimization Of A Heat Pump For Satellite Cooling
-Ian Bell, Vincent Lemort
-University of Liège, Liège, Belgium; ian.h.bell@gmail.com
-
- 
-R-11: Alternative Heating & Cooling Technologies
-Time: Tuesday, 15/Jul/2014: 1:30pm - 3:30pm  •  Location: 214 C&D
-ID: 2108
-Two-Dimensional Modeling of Thermoelectric Cells
-Klaudio S. M. Oliveira, Rodrigo P. Cardoso, Christian J. L. Hermes
-UFPR, Brazil; rodrigo.perito@ufpr.br
-
-ID: 2534
-Magnetocaloric Cooling Near Room Temperature - A Status Quo with Respect to Household Refrigeration
-Robin Langebach, Marcel Klaus, Christoph Haberstroh, Ullrich Hesse
-TU Dresden, Germany; robin.langebach@tu-dresden.de
-
-ID: 2344
-Exergy And Energy Analysis Of Waste Heat Recovery Options For Cooling Capacity Production
-Chantal Maatouk1, Rayan Slim2
-1Saint-Joseph University, Faculty of Engineering – ESIB, Lebanon (Lebanese Republic); 2Notre Dame University, Faculty of Engineering - NDU, Lebanon; chantal.maatoukriachi@usj.edu.lb
-
-ID: 2501
-Experimental and Modeling Improvements to a Co-Fluid Cycle Utilizing Ionic Liquids and Carbon Dioxide
-Scott S. Wujek1, Mark J. McCready2, George Mozurkewich3, William F. Schneider2, Stefan Elbel1
-1Creative Thermal Solutions; 2University of Notre Dame; 3Zelenidyne; scott.wujek@creativethermalsolutions.com
-
- 
-R-12: Refrigerant Heat Transfer & Pressure Drop
-Time: Tuesday, 15/Jul/2014: 1:30pm - 3:30pm  •  Location: 218 A&B
-ID: 2594
-Experimental Study on Liquid Film Thickness of Annular Flow in Microchannels
-Yuki Yoshinaga1, Hao Peng2, Chaobin Dang1, Eiji Hihara1
-1The University of Tokyo, Japan; 2Beijing University of Civil Engineering and Architecture, China; m136727@h.k.u-tokyo.ac.jp
-
-ID: 2488
-R32 Heat Transfer Coefficient During Condensation In A Mini-Channel Multiport Tube
-Alejandro Lopez-Belchi, Fernando Illán-Gómez, José-Ramón García-Cascales, Francisco Vera-García
-Technical University of Cartagena, Spain; alejandro.lopez@upct.es
-
-ID: 2337
-Condensation and Evaporation of R744/R32/R1234ze(E) Flow in Horizontal Microfin Tubes
-Chieko Kondou, Fumiya Mishima, JinFan Liu, Shigeru Koyama
-Kyushu University, Japan; kondo.chieko.162@m.kyushu-u.ac.jp
-
-ID: 2333
-Condensation and Evaporation of R134a, R1234ze(E) and R1234ze(Z) Flow in Horizontal Microfin Tubes at Higher Temperature
-Chieko Kondou, Fumiya Mishima, JinFan Liu, Shigeru Koyama
-Kyushu University, Japan; kondo.chieko.162@m.kyushu-u.ac.jp
-
-ID: 2556
-Two-Phase Flow and Heat Transfer of a Non-Azeotropic Mixture inside a Single Microchannel
-Davide Del Col, Marco Azzolin, Stefano Bortolin
-University of Padova, Italy; davide.delcol@unipd.it
-
-ID: 2204
-Uncertainty Analysis on Prediction of Heat Transfer Coefficient and Pressure Drop in Heat Exchangers Due to Refrigerant Property Prediction Error
-Long Huang, Vikrant Aute, Reinhard Radermacher
-University of Maryland, College Park, United States of America; vikrant@umd.edu
-
- 
-B-06: Building Simulation & Energy Modeling I
-Time: Tuesday, 15/Jul/2014: 1:30pm - 3:30pm  •  Location: 218 C&D
-ID: 3547
-Assessment Of Long-Term Visual And Thermal Comfort And Energy Performance In Open-Space Offices With Different Shading Devices
-Anna Maria Atzeri1, Francesca Cappelletti2, Andrea Gasparella1, Hui Shen3, Athanasios Tzempelikos3
-1Free University of Bolzano-Bozen, piazza Università 1, 39100 Bolzano, Italy; 2University IUAV of Venezia, Dorsoduro 2206, 30123 Venezia, Italy; 3School of Civil Engineering, Purdue University, 550 Stadium Mall Dr., West Lafayette, IN 47907, USA; annamaria.atzeri@natec.unibz.it
-
-ID: 3514
-Comparative Analysis on Energy Consumption of Commercial Buildings Based on Sub-metered Data
-Mingjin Guo, Jianjun Xia, Qi Shen, Le Yang
-Tsinghua University, China, People's Republic of; gmj13@mails.tsinghua.edu.cn
-
-ID: 3107
-The Contribution Of Occupancy Behavior To Energy Consumption In Low Income Residential Buildings
-Yifei Duan, Bing Dong
-University of Texas at San Antonio, United States of America; duanyifeixp@gmail.com
-
-ID: 3270
-Influence Of Building Zoning On Annual Energy Demand
-Lisa Rivalin1,2, Dominique Marchio1, Pascal Stabat1, Marcello Caciolo2, Benoit Cogné2
-1Mines ParisTech, France; 2Cofely Axima, France; lisa.rivalin@mines-paristech.fr
-
-ID: 3156
-A Study on the Fire Safety Issues for Large Window Openings in Supertall Residential Buildings in Hong Kong
-K.W. Lau, W.K. Chow
-The Hong Kong Polytechnic University, Hong Kong S.A.R. (China); beelize@polyu.edu.hk
-
-ID: 3293
-Performance analysis of an energy efficient building prototype by using TRNSYS
-Kun Lai1, Wen Wang1, Harry Giles2
-1Shanghai Jiao Tong University, China, People's Republic of; 2University of Michigan, USA; like304321@sjtu.edu.cn
-
- 
-B-07: Solar Energy Systems in Buildings
-Time: Tuesday, 15/Jul/2014: 1:30pm - 3:30pm  •  Location: 310
-ID: 3559
-A New Model for the Analysis of Performance in Evacuated Tube Solar Collectors
-Ahmed Aboulmagd2, Andrea Padovan1, Rejane De Césaro Oliveski3, Davide Del Col1
-1University of Padova, Italy; 2Cairo University, Egypt; 3University of Vale do Rio dos Sinos, Brazil; davide.delcol@unipd.it
-
-ID: 3623
-Integration of Photovoltaics into Building Energy Usage through Advanced Control of Rooftop Unit
-Michael Starke, James Nutaro, Teja Kuruganti, David Fugate
-Oak Ridge National Laboratory, United States of America; kurugantipv@ornl.gov
-
-ID: 3486
-Effect of Solar Radiation Model on the Predicted Energy Performance of Buildings
-Alessandro Prada1, Giovanni Pernigotto4, Paolo Baggio2, Andrea Gasparella1, Ardeshir Mahdavi3
-1Free University of Bozen/Bolzano, Italy; 2University of Trento, Trento, Italy; 3Vienna University of Technology, Vienna, Austria; 4University of Padova, Vicenza, Italy; alessandro.prada@unibz.it
-
-ID: 3544
-Annual Performance Of A Solar Assisted Heat Pump Using Ice Slurry As A Latent Storage Material
-Justin Tamasauskas1, Michel Poirier1, Radu Zmeureanu2, Martin Kegel1, Roberto Sunye1
-1Natural Resources Canada/CanmetENERGY, Canada; 2Department of Building, Civil and Environmental Engineering, Concordia University, Canada; jtamasau@nrcan.gc.ca
-
-ID: 3484
-Optimal Design of Renewable Energy Systems in Low/Zero Energy Buildings
-Yuehong Lu, Shengwei Wang
-The Hong Kong Polytechnic University, Hong Kong S.A.R. (China); luyuehongtuzi@163.com
-
-ID: 3572
-Design of a Heat Pump Assisted Solar Thermal System
-Kyle G. Krockenberger1,2, John M. DeGrove1,2, William J. Hutzel1,2, J. Christopher Foreman1,3
-1Purdue University, United States of America; 2Department of Mechanical Engineering Technology; 3Department of Electrical and Computer Engineering Technology; kkrocken@purdue.edu
-
- 
-C-07: Waste Heat Recovery
-Time: Tuesday, 15/Jul/2014: 1:30pm - 3:30pm  •  Location: 314
-ID: 1470
-Geothermal ORC Systems Using Large Screw Expanders
-Tim R. Biederman, Joost J. Brasz
-cyrq, United States of America; tim.biederman@gmail.com
-
-ID: 1451
-Experimental Campaign and Modeling of a Low-capacity Waste Heat Recovery System Based on a Single Screw Expander
-Adriano Desideri1, Martijn van den Broek2, Sergei Gusev2, Vincent Lemort1, Sylvain Quoilin1
-1University of Liege, Belgium; 2University of Ghent, Belgium; adesideri@ulg.ac.be
-
-ID: 1609
-The Benefit of Variable-Speed Turbine Operation for Low Temperature Thermal Energy Power Recovery
-Joost J. Brasz
-Syracuse University CASE Incubation Center; jbrasz@danfoss.com
-
-ID: 1272
-Liquid-Flooded Ericsson Power Cycle
-Nelson A. James, James E. Braun, Eckhard A. Groll, W. Travis Horton
-Purdue University, United States of America; najames@purdue.edu
-
-ID: 1604
-Experimental Investigation Of An ORC System For A Micro-Solar Power Plant
-Rémi Dickes, Olivier Dumont, Sébastien Declaye, Sylvain Quoilin, Ian Bell, Vincent Lemort
-University of Liège, Belgium; rdickes@ulg.ac.be
-
- 
-C-08: Compressor Modeling I
-Time: Tuesday, 15/Jul/2014: 1:30pm - 3:30pm  •  Location: 322
-ID: 1186
-Simulation of a Refrigeration Compressor evaluating accuracy of results with variation in 3D component discretization
-Sidnei Jose De Oliveira1, Marcelo Real1, Dan Marsh2
-1Tecumseh Products Co, United States of America; 2Gamma Tecnologies, United States of America; sidnei.oliveira@tecumseh.com
-
-ID: 1137
-PD Compression: A Quasi-Static or Dynamic Process?
-Paul Xiubao Huang
-Hi-Bar MC Tech, United States of America; paulxbh@yahoo.com
-
-ID: 1153
-Development And Validation Of Integrated Design Framework For Compressor System Model
-Parag Mantri, Aditya Bhakta, Srinivas Mallampalli, Greg Hahn, Srujan Kusumba
-GE, India; parag.mantri@ge.com
-
-ID: 1152
-An Improved Analytical Model for Efficiency Estimation in Design Optimization Studies of a Refrigerator Compressor
-Aditya Bhakta, Parag Mantri, Bhaskar Tamma
-GE, India; Aditya.Bhakta@ge.com
-
-ID: 1131
-A Numerical Simulation of Fluid-Structure Interaction for Refrigerator Compressors Suction and Exhaust System Performance Analysis
-Shoufei Wu, Zonghuai Wang
-Jiaxipera Compressor Co., Ltd., China, People's Republic of; shoufei.wu@qq.com
-
-ID: 1124
-Influence of approaches in CFD Solvers on Performance Prediction in Screw Compressors
-Ahmed Kovacevic1, Sham Rane1, Nikola Stosic1, Yu Jiang2, Sam Lowry2, Michal Furmanczyk2
-1City University London, United Kingdom; 2Simerics, Inc, United States of America; a.kovacevic@city.ac.uk
-
- 
-R-13: Transient System Modeling
-Time: Tuesday, 15/Jul/2014: 4:00pm - 6:00pm  •  Location: 214 A&B
-ID: 2472
-Extremum Seeking Control of Hybrid Ground Source Heat Pump System
-Bin Hu1, Yaoyu Li1, Baojie Mu1, Shaojie Wang2, John E. Seem4, Feng Cao3
-1University of Texas at Dallas, United States of America; 2Climate Master, Inc., Oklahoma City, OK 73179, USA; 3Xi'an Jiaotong University, China; 4High Altitude Trading, Inc., Jackson, WY 83001, USA; yaoyu.li@utdallas.edu
-
-ID: 2264
-Modelica-based Heat Pump Model for Transient and Steady-State Simulation Using Low-GWP Refrigerants
-Jiazhen Ling1, Hongtao Qiao1,2, Abdullah Alabdulkarem1, Vikrant Aute1, Reinhard Radermacher1
-1University of Maryland, College Park, United States of America; 2King Saud University, PO Box 800, Riyadh 11421, Saudi Arabia; jiazhen@umd.edu
-
-ID: 2244
-Dynamic Performance Of A Compression Thermoelastic Cooling Air-Conditioner Under Cyclic Operation Mode
-Suxin Qian, Jiazhen Ling, Yunho Hwang, Reinhard Radermacher
-University of Maryland, College Park, United States of America; sqian@umd.edu
-
-ID: 2266
-Steady State And Transient Validation Of Heat Pumps Using Alternative Lower-GWP Refrigerants
-Viren Bhanot1, Daniel Bacellar1, Jiazhen Ling1, Abdullah Alabdulkarem1,2, Vikrant Aute1, Reinhard Radermacher1
-1University of Maryland, College Park, United States of America; 2King Saud University, Riyadh, Saudi Arabia; vbhanot@umd.edu
-
-ID: 2593
-A Comparison of Transient Heat-Pump Cycle Simulations with Homogeneous and Heterogeneous Flow Models
-Christopher R. Laughman
-Mitsubishi Electric Research Laboratories, United States of America; laughman@merl.com
-
-ID: 2603
-Transient Exergy Destruction Analysis of a Vapor Compression System
-Neera Jain, Andrew Alleyne
-University of Illinois at Urbana-Champaign, United States of America; njain@alum.mit.edu
-
- 
-R-14: Capillary Tubes, Vortex & Two-phase Expanders
-Time: Tuesday, 15/Jul/2014: 4:00pm - 6:00pm  •  Location: 214 C&D
-ID: 2655
-An Experimental Comparison of the Refrigerant Flow through Adiabatic and Non-Adiabatic Helical Capillary Tubes
-Puya Javidmand2, Masoud Zareh1
-1Department of Mechanical and Aerospace Engineering, Science and Research Branch; 2Wichita State University, United States of America; sxjavidmand@wichita.edu
-
-ID: 2664
-Numerical Model of Capillary Tubes: Enhanced Performance and Study of Non-Adiabatic Effects
-Nicolas Ablanque, Carles Oliet, Joaquim Rigola, Carlos David Pérez-Segarra
-Centre Tecnològic de Transferència de Calor (CTTC), Universitat Politècnica de Catalunya (UPC); carles@cttc.upc.edu
-
-ID: 2521
-Experimental study of the Couple Characteristics of the Refrigerants and Vortex Tube
-Nian Li1, Zheng Wang2, Xiaohong Han1, Guangming Chen1
-1Institute of Refrigeration & Cryogenics, Zhejiang University, Hangzhou, China, People's Republic of; 2Department of Mechanical Engineering, University College London, London, WC1E 7JE, UK; wxhcoolge@163.com
-
-ID: 2169
-Design Of A Turgo Two-Phase Turbine Runner
-Youssef Aaraj1, Sorina Mortada1, Denis Clodic1, Maroun Nemer2
-1EReIE; 2Mines Paristech; youssef.aaraj@ereie-sas.fr
-
-ID: 2531
-Design and Setup of the Micro-Turboexpander Transcritical CO2 System
-Y. Hou1,2, C.H. Liu1, J.L. Ma1, J. Cao1, S.T. Chen1
-1School of Energy and Power Engineering, Xi'an Jiaotong University, China, People's Republic of; 2State Key Laboratory of Multiphase Flow in Power Engineering, Xi'an Jiaotong University,China,People's Republic of; stchen.xjtu@mail.xjtu.edu.cn
-
-ID: 2261
-Non-Adiabatic Capillary Tubes In Cycle Simulations
-Martin Heimel, Erwin Berger, Stefan Posch, Martin Eichinger, Raimund Almbauer
-Graz University of Technology, Austria; martin.heimel@tugraz.at
-
-ID: 2193
-A Fresh Look At Vortex Tubes Used As Expansion Device In Vapor Compression Systems
-Muhammad Mohiuddin1, Stefan Elbel1,2
-1University of Illinois at Urbana-Champaign, USA; 2Creative Thermal Solutions, USA; elbel@illinois.edu
-
- 
-R-15: Air-side Heat Transfer, Fouling & Frosting
-Time: Tuesday, 15/Jul/2014: 4:00pm - 6:00pm  •  Location: 218 A&B
-ID: 2109
-Thermodynamic Optimization of Tube-Fin Evaporators Operating under Frosting Conditions
-Rafael S. Ribeiro, Christian J. L. Hermes
-UFPR, Brazil; chermes@ufpr.br
-
-ID: 2140
-Experimental Study of Fouling Performance of Air Conditioning System with Microchannel Heat Exchanger
-Bo Xu1, Junye Shi1, Ying Wang1, Jiangping Chen1, Feng Li2, Dong Li2
-1Shanghai Jiao Tong University, China, People's Republic of; 2SICHUAN CHANGHONG ELECTRIC CO.,LTD, China, People's Republic of; jpchen70@aliyun.com
-
-ID: 2143
-Visualization of Evaporatively Cooled Heat Exchanger Wetted Fin Area
-Sahil Popli, Hoseong Lee, Yunho Hwang, Reinhard Radermacher
-CEEE, University of Maryland, United States of America; spopli@umd.edu
-
-ID: 2195
-Experimental Evaluation Of The Frost Formation
-Yusuke Tashiro, Mamoru Hamada
-Mitsubishi Electric, Japan; Tashiro.Yusuke@cb.MitsubishiElectric.co.jp
-
-ID: 2240
-CFD-Based Correlation Development For Air Side Performance Of Finned And Finless Tube Heat Exchangers With Small Diameter Tubes
-Daniel Bacellar, Vikrant Aute, Reinhard Radermacher
-University of Maryland, College Park, United States of America; dfbace@umd.edu
-
-ID: 2466
-The Effects Of Surface Characteristics On Liquid Behaviors Of Fins During Frosting And Defrosting Processes
-Feng Wang, Cai Hua Liang, Ming Tao Yang, Xiao Song Zhang
-School of Energy and Environment, Southeast University, Nanjing, Jiangsu, P R China; wangfengseu@163.com
-
- 
-R-16: Automated Diagnostics Fault Detection
-Time: Tuesday, 15/Jul/2014: 4:00pm - 6:00pm  •  Location: 218 C&D
-ID: 2310
-Development of Economic Impact Models for RTU Economizer Faults
-Andrew L. Hjortland, James E. Braun
-Purdue University - Herrick Laboratory, United States of America; ahjortla@purdue.edu
-
-ID: 2584
-Virtual Power Consumption and Cooling Capacity Virtual Sensors for Rooftop Units
-Howard Cheung, James E. Braun
-Purdue University, United States of America; cheung@purdue.edu
-
-ID: 2496
-HVAC System Cloud Based Diagnostics Model
-Fadi M. Alsaleem, Robert Abiprojo, Jeff Arensmeier, Gregg Hemmelgarn
-Emerson Climate Technologies, United States of America; fadi.alsaleem@emerson.com
-
-ID: 2605
-Evaluating Fault Detection and Diagnostics Tools with Simulations of Multiple Vapor Compression Systems
-David P. Yuill, Howard Cheung, James E. Braun
-Purdue University, United States of America; dyuill@purdue.edu
-
-ID: 2606
-Validation of a Fault-Modeling Equipped Vapor Compression System Model Using a Fault Detection and Diagnostics Evaluation Tool
-David P. Yuill, Howard Cheung, James E. Braun
-Purdue University, United States of America; dyuill@purdue.edu
-
-ID: 2628
-Kalman filter-based FDD for an Air Handling Unit (AHU)
-Timothy Mulumba, Afshin Afshari, Luiz Augusto Friedrich
-Masdar Institute, United Arab Emirates; tmulumba@masdar.ac.ae
-
- 
-B-08: Facades & Lighting
-Time: Tuesday, 15/Jul/2014: 4:00pm - 6:00pm  •  Location: 310
-ID: 3259
-Fluiglass - Façade Elements for Active Solar Control for High-Rise Buildings
-Anne Liebold1, Daniel Oppliger1, Daniel Gstöhl2, Tobias Menzi1, Stefan Bertsch1
-1Interstate University of Applied Sciences of Technology Buchs, Institute for Energy-Systems IES, Switzerland; 2University of Lichtenstein, Institute for architecture and spatial development; anne.liebold@ntb.ch
-
-ID: 3339
-A Global Method for Efficient Synchronized Shading Control Using the “Effective Daylight” Concept
-Hui Shen, Athanasios Tzempelikos
-Purdue University, United States of America; shen34@purdue.edu
-
-ID: 3437
-Effects of Fixed and Motorized Window Louvers on the Daylighting and Thermal Performance of Open-Plan Office Buildings
-Yuxiang Chen, Samson Yip, Andreas Athienitis
-Concordia University, Canada; yuxia_ch@hotmail.com
-
-ID: 3389
-Solar Optical Properties of Roller Shades: Modeling Approaches, Measured Results and Impact on Energy Use and Visual Comfort
-Ying-Chieh Chan1,2, Athanasios Tzempelikos1,2, Brent Protzman3
-1School of Civil Engineering, Purdue University, 550 Stadium Mall Dr., West Lafayette, IN 47907 USA; 2Ray W. Herrick Laboratories, School of Mechanical Engineering, Purdue University, 140 S. Martin Jischke Dr., West Lafayette, IN 47907, USA; 3Lutron Electronics Co. Inc., 7200 Suter Rd., Coopersburg, PA 18036 USA; ychan@purdue.edu
-
-ID: 3646
-Development of a Façade Retrofit Performance Guide Using Climate-based Analysis Including Dynamic Façade Systems
-Hui Shen1,2, Ying-Chieh Chan1,2, Athanasios Tzempelikos1,2
-1School of Civil Engineering, Purdue University, West Lafayette IN USA; 2Herrick Labs, Purdue University, West Lafayette IN USA; shen34@purdue.edu
-
-ID: 3155
-Feasibility Study of Zero Carbon Domestic Building in the UK
-Jie Zhu
-The University of Nottingham, United Kingdom; jie.zhu@nottingham.ac.uk
-
- 
-C-09: Noise & Vibration
-Time: Tuesday, 15/Jul/2014: 4:00pm - 6:00pm  •  Location: 314
-ID: 1133
-Diesel-Driven Compressor Torque Pulse Measurement in a Transport Refrigeration Unit
-Young Chan Ma1, Cody Kleinboehl2, Lars Sjoholm3, David Secrist4
-1Ingersoll Rand / Thermo King, United States of America; 2Ingersoll Rand / Thermo King, United States of America; 3Ingersoll Rand / Thermo King, United States of America; 4Ingersoll Rand / Thermo King, United States of America; youngchan_ma@irco.com
-
-ID: 1146
-Muffler Design for a Refrigerator Compressor
-Vamshidhar Done1, Venkatesham Balide2, Bhaskar Tamma1, Kunal Soni1, Subhrajit Dey1, Shruti Angadi1, Vishal G P2
-1General Electric Global Research Center, Bangalore, India; 2Department of Mechanical Engineering, IIT Hyderabad, India; vamshidhar.done@ge.com
-
-ID: 1199
-Analysis And Experimental Validation Of Structure-Borne Noise From Acoustic Enclosure Of Compressor
-Satish Konderao Deshmukh1, Onkar Sunil Madhekar2
-1Kirloskar Pneumatic Company Limited, India; 2Sinhgad College Of Engineering, Pune, India; deshmukhsk@kpcl.net
-
-ID: 1216
-Theoretical Analysis of Revolving Vane Compressor Vibrations
-Kuan Thai Aw, Kim Tiow Ooi
-Nanyang Technological University, Singapore; ktaw1@ntu.edu.sg
-
-ID: 1307
-Acoustic Improvements for a New Generation of Variable Speed Compressor
-Carlos Eduardo Vendrami, Claudio de Pellegrini, Marcos Akira Hattori, Douglas Climaco
-Embraco - Research & Development, Brazil; carlos_vendrami@embraco.com.br
-
-ID: 1320
-Noise Characteristics Improvements for a New Generation of Variable Capacity Compressor using Linear Motor Technology
-Claudio de Pellegrini1, Alexandre Schroeder1, Otavio Santini1, Carlos Eduardo Vendrami1, Arcanjo Lenzi2, Olavo Silva2
-1Embraco - Research and Development, Brazil; 2Federal University of Santa Catarina, Brazil; arcanjo.lenzi@ufsc.br
-
- 
-C-10: Compressor Modeling II
-Time: Tuesday, 15/Jul/2014: 4:00pm - 6:00pm  •  Location: 322
-ID: 1241
-Methods of fluid properties for compressible refrigerant CFD analysis
-Scott Branch
-Ingersoll Rand - Trane, United States of America; sbranch@trane.com
-
-ID: 1260
-Comparison and Validation of Semi-empirical Compressor Models for Cycle Simulation Application
-Stefan Posch1, Erwin Berger1, Martin Heimel1, Raimund Almbauer1, Axel Stupnik2, Hans-Peter Schögler2
-1Graz University of Technology, Austria; 2ACC – Austria GmbH, Fürstenfeld; posch@ivt.tugraz.at
-
-ID: 1358
-Numerical Investigation Of The Leakage Flows In Twin Screw Compressor Rotors
-Maria Pascu, David Buckney, Manoj Heiyanthuduwage, Graeme Cook
-Howden Compressors Ltd, United Kingdom; maria.pascu@howden.com
-
-ID: 1295
-Fatigue Prediction of the Discharge Pipe in Reciprocating Compressor
-Jung-Hyoun Kim, Dae-Il Kwon, Jeong-Bae Lee, Jong-Soo Noh, Seong-Woo Park, Un-Seop Lee
-Samsung Electronics, Korea, Republic of (South Korea); jh104.kim@samsung.com
-
-ID: 1242
-A Semi-Empirical Prediction Model for the Discharge Line Temperature of Hermetic Compressors
-David Myszka1, Chen Guan1, Andrew Murray1, Thomas Hodapp2
-1University of Dayton, United States of America; 2Emerson Climate Technologies; dmyszka@udayton.edu
-
-ID: 1416
-Discharge Tube Design For Reciprocating Compressor – How To Do It Right The First Time And Quickly
-Marcos Giovani Dropa de Bortoli, Fabio Medeiros de Lima, Julio Cesar Silva
-Embraco, Brazil; mgdbortoli@gmail.com
-
- 
-R-17: Advanced Controls
-Time: Wednesday, 16/Jul/2014: 9:45am - 12:00pm  •  Location: 214 A&B
-ID: 2125
-An energy-saving control strategy for VRF and VAV combined air conditioning system in heating mode
-Yonghua Zhu, Xinqiao Jin, Zhimin Du, Xing Fang, Bo Fan
-Shanghai Jiao Tong University, China, People's Republic of; zhuyonghua88@sjtu.edu.cn
-
-ID: 2154
-A PD Law Based Fuzzy Logic Control Strategy For Simultaneous Control Of Indoor Temperature And Humidity Using A Variable Speed Direct Expansion Air Conditioner
-Zhao Li1, Xiang Guo Xu2, Shi Ming Deng1, Dong Mei Pan1
-1Department of Building Services Engineering, The Hong Kong Polytechnic University, Hong Kong S.A.R. (China); 2Institute of Refrigeration and Cryogenics, Zhejiang University, Hangzhou, China; lzph4ever@gmail.com
-
-ID: 2273
-Realtime Optimization of MPC Setpoints using Time-Varying Extremum Seeking Control for Vapor Compression Machines
-Walter K. Weiss1, Daniel J. Burns2, Martin Guay1
-1Queen's University, Canada; 2Mitsubishi Electric Research Labs, United States of America; burns@merl.com
-
-ID: 2343
-The Performance Matching of Inverter Room Air Conditioner
-Bo Huang, Xiyuan Zhu, Hong Tao, Da Shi
-SHANG HITACHI, China, People's Republic of; xiyuan_zhu@163.com
-
-ID: 2613
-Model Predictive Control of Variable Refrigerant Flow Systems
-Neera Jain, Daniel J. Burns, Stefano Di Cairano, Christopher R. Laughman, Scott A. Bortoff
-Mitsubishi Electric Research Labs, United States of America; burns@merl.com
-
-ID: 2508
-Multi-variable Extremum Seeking Control for Mini-split Air-conditioning System
-Yan Xiao1, Yaoyu Li1, John E. Seem2
-1The University of Texas at Dallas, United States of America; 2Johnson Controls Inc. , United States of America; yxx123430@utdallas.edu
-
- 
-R-18: Heat Pumps III
-Time: Wednesday, 16/Jul/2014: 9:45am - 12:00pm  •  Location: 214 C&D
-ID: 2359
-The Effects of Gas Cooler Inlet Pressure on System Performance in Heat Pump Tumble Dryers
-Serkan Erdem, Cenk Onan, Hasan Alpay Heperkan, Derya Burcu Özkan
-Yildiz Technical University, Turkey; serdem@yildiz.edu.tr
-
-ID: 2360
-The Effects of Fin Spacing and Tube Outer Diameter of Evaporator on System Performance in Heat Pump Tumble Dryers
-Cenk Onan, Serkan Erdem, Derya Burcu Özkan, Hasan Alpay Heperkan
-Yildiz Technical University, Turkey; conan@yildiz.edu.tr
-
-ID: 2142
-Heat Pump with Two Heat Sources on Different Temperature Levels
-Stefan Bertsch, Michael Uhlmann, Andres Heldstab
-NTB University of Applied Sciences in Buchs, Switzerland; stefan.bertsch@ntb.ch
-
-ID: 2431
-Linked Modelling of Heat Pump Water Heater Vapor Compression System and Water Tank
-Tejas Shah, Predrag S. Hrnjak
-Air Conditioning and Refrigeration Center, University of Illinois at Urbana-Champaign, United States of America; shah59@Illinois.edu
-
-ID: 2701
-Experimental Study of a CO2 Thermal Battery for Simultaneous Cooling and Heating Applications
-Tianwei Wang1, Supriya Dharkar2, Orkan Kurtulus2, Eckhard A. Groll2, Kazuaki Yazawa3
-1Purdue University Calumet, United States of America; 2Purdue University, United States of America; 3Birck Nanotechnology Center, Purdue University, West Lafayette, Indiana, USA; sdharkar@purdue.edu
-
-ID: 2257
-Analysis of a Data Center Using Liquid-Liquid CO2 Heat Pump for Simultaneous Cooling and Heating
-Supriya Dharkar1, Orkan Kurtulus1, Eckhard A. Groll1, Kazuaki Yazawa2
-1Mechanical Engineering, Purdue University, West Lafayette, Indiana, USA; 2Birck Nanotechnology Center, Purdue University, West Lafayette, Indiana, USA; sdharkar@purdue.edu
-
- 
-R-19: Heat Exchanger Analysis
-Time: Wednesday, 16/Jul/2014: 9:45am - 12:00pm  •  Location: 218 A&B
-ID: 2203
-Design Optimization of Variable Geometry Microchannel Heat Exchangers
-Long Huang, Vikrant Aute, Reinhard Radermacher
-University of Maryland, College Park, United States of America; long730@umd.edu
-
-ID: 2555
-Innovative Minichannel Condensers and Evaporators for Air Conditioning Equipment
-Davide Del Col1, Marco Rossato1, Stefano Bernardinello2, Luca Zaramella1
-1University of Padova, Italy; 2Blue Box – Swegon, Italy; davide.delcol@unipd.it
-
-ID: 2587
-Experimental Analysis Of Twisted Shaped Spot Evaporators At High Heat Fluxes
-Tobias Knipping1, Michael Arnemann2, Ullrich Hesse3, Frank Humpfer1
-1Karlsruhe UAS, Institute of Materials and Processes (IMP), Germany; 2Karlsruhe UAS, Institute of refrigeration, air conditioning and environmental technology (IKKU), Germany; 3TU Dresden, BITZER Chair of Refrigeration-, Cryo- and Compressor Technology, Germany; tobias.knipping@hs-karlsruhe.de
-
-ID: 2570
-New Copper-based Heat Exchangers for Alternative Refrigerants
-Yoram Shabtay1, John Black2, Frank Kraft3
-1Heat Transfer Technologies LLC, United States of America; 2Metal Scope LLC, United States of America; 3Ohio University, United States of America; yoram@heattransfertechnologies.com
-
-ID: 2355
-Performance Comparison Of Round Tubes Finned Heat Exchangers And Macro Micro-Channel Heat Exchangers In A Low Capacity Heat Pump
-Assaad Zoughaib1, Sorina Mortada1, Florence Khayat1, Cédric Teuillieres2, Christine Arzano-Daurelle2
-1Center for Energy Efficiency of Systems, Mines Paris-Tech; 2EDF R&D, France; christine.arzano-daurelle@edf.fr
-
- 
-B-09: Building Simulation & Energy Modeling II
-Time: Wednesday, 16/Jul/2014: 9:45am - 12:00pm  •  Location: 218 C&D
-ID: 3480
-Development Of Sets Of Simplified Building Models For Building Simulation
-Giovanni Pernigotto1, Alessandro Prada2, Andrea Gasparella2, Jan L. M. Hensen3
-1University of Padova, Italy; 2Free University of Bozen-Bolzano, Italy; 3Eindhoven University of Technology, The Netherlands; pernigotto@gest.unipd.it
-
-ID: 3385
-Informed Building Retrofit based on Simulation and Data Analysis
-Dong Luo, Tiejun Wu, Jinliang Wang, Timothy Wagner
-United Technologies Research Center, United States of America; wagnertc@utrc.utc.com
-
-ID: 3561
-Uncertainty Analysis of a Heavily Instrumented Building at Different Scales of Simulation
-George Ostrouchov1, Joshua New1, Jibonananda Sanyal1, Pragneshkumar Patel2
-1Oak Ridge National Laboratory, United States of America; 2University of Tennessee in Knoxville; sanyalj@ornl.gov
-
-ID: 3571
-A Heuristic Supply Air Temperature Reset Strategy for VAV Systems Employing Variable-Capacity DX Cooling Equipment
-Jie Cai, James E. Braun
-Purdue University, United States of America; cai40@purdue.edu
-
-ID: 3552
-Enhancing the Energy and Non-Energy Performance of Existing Buildings: a Multi-Objective Approach
-Paola Penna1, Alessandro Prada1, Francesca Cappelletti2, Andrea Gasparella1
-1Free University of Bozen-Bolzano, Italy; 2University IUAV of Venice, Italy; paola.penna@natec.unibz.it
-
-ID: 3263
-Validation of retrofit analysis simulation tool: Lessons learned
-Marija Trcka, Jose Miguel Pasini, Stella Maris Oggianu
-United Technologies Research Center, United States of America; trckam@utrc.utc.com
-
-ID: 3583
-Energy Simulation And Optimized Retrofit Practices Applied To A Real Dwelling
-Giulia Marinello1, Stephen L. Caskey1, Eric J. Bowler2, Eckhard A. Groll1
-1Purdue University, United States of America; 2Whirlpool Corporation, United States of America; giulia.marinello3@gmail.com
-
- 
-C-11: Tribology & Lubrication I
-Time: Wednesday, 16/Jul/2014: 9:45am - 12:00pm  •  Location: 310
-ID: 1563
-Source Identification and In Situ Quantification of Oil-Refrigerant Mist Generation by Discharge Valve Opening Process
-Augusto Jose Pereira Zimmermann1, Predrag S. Hrnjak1,2
-1University of Illinois at Urbana-Champaign, United States of America; 2CTS, Urbana, IL, USA; augusto@illinois.edu
-
-ID: 1569
-Visualization of the Opening Process of a Discharge Reed Valve in the Presence of Oil
-Augusto Jose Pereira Zimmermann1, Predrag S. Hrnjak1,2
-1University of Illinois at Urbana-Champaign, United States of America; 2CTS, Urbana-IL, USA; augusto@illinois.edu
-
-ID: 1565
-Optimization of EHL Lubrication Performance in Thrust Slide-Bearings of Scroll Compressors
-Noriaki Ishii1, Takuma Tsuji2, Keiko Anami3, Charles W. Knisely4, Katsunori Kurihara1, Tatsuya Oku2, Kiyoshi Sawai5, Hirofumi Yoshida6, Hiroaki Nakai6
-1Osaka Electro-Communication University, Japan; 2Mayekawa MFG. Co., Ltd.; 3Ashikaga Institute of Technology, Japan; 4Bucknell University, USA; 5Hiroshima Institute of Technology, Japan; 6Appliances Company, Panasonic Corporation; ishii@isc.osakac.ac.jp
-
-ID: 1248
-Numerical and Experimental Examination for Oil Pump System Using a Simplified Uncoupled Simulation Model
-Mauricio Pereira Tada, Thiago Hoffmann, Paulo Rogério Carrara Couto, Adilson Luiz Manke, Marcos Giovani Dropa de Bortoli
-Embraco, Brazil; mauricio_p_tada@embraco.com
-
-ID: 1354
-Experimental Study About An Amount Of Oil Charge On Electric Driven Scroll Compressor For Electric Vehicle
-Donglim Nam1, Poyoung Lee1, Geonho Lee2, Yunki Kwon2, Jinho Lee3
-1Doowon Heavy Industrial, Korea, Republic of (South Korea); 2Doowon Technical University College, Republic of (South Korea); 3Yonsei University, Republic of (South Korea); dlnam@doowonhi.com
-
-ID: 1110
-Hydrodynamic Lubrication Analysis of Eccentric Bearing in Rotary Compressor
-Xingbiao Zhou, Bo Jiang, Shuangjian Liang
-Guangdong Meizhi Compressor Co. Ltd., China, People's Republic of; zhouxb3@chinagmcc.com
-
-ID: 1288
-Selection of a refrigeration oil for the R32 refrigerant and evaluation of the compressor reliability
-Masaru Tanaka, Hideki Matsuura, Shigeharu Taira, Akinori Nakai
-DAIKIN INDUSTRIES,LTD., Japan; masaru.tanaka@daikin.co.jp
-
- 
-C-12: Reciprocating Compressors
-Time: Wednesday, 16/Jul/2014: 9:45am - 12:00pm  •  Location: 314
-ID: 1181
-Influence of Shell Volume on Pressure Pulsations in a Hermetic Reciprocating Compressor
-Keith Adam Novak
-Ingersoll Rand - Trane, United States of America; keith.novak@trane.com
-
-ID: 1182
-Influence of Cylinder Bore Volume on Pressure Pulsations in a Hermetic Reciprocating Compressor
-Keith Adam Novak
-Ingersoll Rand - Trane, United States of America; keith.novak@trane.com
-
-ID: 1151
-Friction Model Development for a reciprocating compressor
-Parag Mantri, Bhavesh Kachhia, Bhaskar Tamma, Aditya Bhakta
-GE, India; parag.mantri@ge.com
-
-ID: 1163
-Flexible-body Dynamics Simulation of Crankshaft Torsional Vibration System
-Junming Cheng1, Zhan Liu2, Binyan Yu3, Qin Tan4, Quanke Feng5
-1School of Energy and Power Engineering,Xi'an Jiaotong University, Xi'an, P.R.China; 2School of Energy and Power Engineering,Xi'an Jiaotong University, Xi'an, P.R.China; 3School of Energy and Power Engineering,Xi'an Jiaotong University, Xi'an, P.R.China; 4School of Energy and Power Engineering,Xi'an Jiaotong University, Xi'an, P.R.China; 5School of Energy and Power Engineering,Xi'an Jiaotong University, Xi'an,P.R.China; cjm1878@163.com
-
-ID: 1267
-Numerical Investigation of the Gas Leakage through the Piston-Cylinder Clearance of Reciprocating Compressors
-Sérgio Koerich Lohn, Evandro Luiz Lange Pereira
-Embraco, Brazil; evandro_l_lange@embraco.com.br
-
-ID: 1367
-Development of a Lumped-Parameter Model for Hermetic Reciprocating Compressor with Thermal-Electrical Coupling
-Thiago Dutra, Cesar J. Deschamps
-POLO/ Federal University of Santa Catarina, Brazil; dutra@polo.ufsc.br
-
-ID: 1479
-Optimization Rotor Hole to Reduce Force in Cold Pressing Rotor into Crankshaft
-Chengguo Chu, Jun Luo, Shoufei Wu, Xiaoli Liu
-Jiaxipera Compressor Co., Ltd.,, China, People's Republic of; bevinchu@163.com
-
- 
-C-13: Compressor Modeling III
-Time: Wednesday, 16/Jul/2014: 9:45am - 12:00pm  •  Location: 322
-ID: 1662
-Numerical Analysis of Suction Mufflers
-Joaquim Rigola1, Joan López1, Giorgos Papakokkinos1, Oriol Lehmkuhl2, Assensi Oliva1
-1Heat and Mass Transfer Technological Center – Universitat Politècnica de Catalunya, Terrassa (Barcelona), Spain; 2Termo Fluids S.L., Sabadell (Barcelona), Spain; quim@cttc.upc.edu
-
-ID: 1659
-Fluid-Structure Interaction of a Reed Type Valve Subjected to Piston Displacement
-Olga Estruch1, Oriol Lehmkuhl1,2, Joaquim Rigola1, Carles David Pérez-Segarra1
-1Heat and Mass Transfer Technological Center – Polytechnic University of Catalonia, Terrassa (Barcelona), Spain; 2Termo Fluids S.L., Sabadell (Barcelona), Spain; quim@cttc.upc.edu
-
-ID: 1412
-Predicting the Suction Gas Superheating in Reciprocating Compressors
-Jonatas Ferreira Lacerda1, Celso Kenzo Takemori2
-1Tecumseh Products Company, Brazil; 2Vibroacústica Development and Research, Brazil; jonatas.lacerda@tecumseh.com
-
-ID: 1589
-Equivalent Linkages of Compressor Mechanisms
-Hubert Bukac
-Little Dynamics, Inc., United States of America; hbukac@littledynamics.com
-
-ID: 1548
-3-D Transient CFD Model For A Rolling Piston Compressor With A Dynamic Reed Valve
-Hui Ding, Haiyang Gao
-Simerics Inc., United States of America; hd@simerics.com
-
-ID: 1336
-Investigation Of Compressor Heat Dispersion Model
-Da Shi, Hong Tao, Min Yang
-Shanghai Hitachi Electronic Appliances, China, People's Republic of; yangm1@shec.com.cn
-
-ID: 1274
-Tubulence Modelling Evaluation for Reciprocating Compressor Simulation
-Tadeu Tonheiro Rodrigues
-Embraco - Research and Development, Brazil; tadeu.t.rodrigues@embraco.com
-
- 
-R-20: Transportation Air Conditioning
-Time: Wednesday, 16/Jul/2014: 1:00pm - 3:00pm  •  Location: 214 A&B
-ID: 2116
-Energy saving measures for automotive air conditioning (AC) system in the tropics
-Alison Subiantoro1, Kim Tiow Ooi2, Ulrich Stimming1
-1TUM CREATE, Singapore; 2School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore; alison.subiantoro@tum-create.edu.sg
-
-ID: 2399
-Effect of Refrigerant Charge, Compressor Speed and Air Flow Through the Evaporator on the Performance of an Automotive Air Conditioning System
-Santanu Prasad Datta, Prasanta Kumar Das, Siddhartha Mukhopadhyay
-Indian Institute of Technology Kharagpur, India; santanu@mech.iitkgp.ernet.in
-
-ID: 2510
-Optimization Of A Main Engine Driven Roof Top Bus Air-Conditioning System
-Srinivasa Yenneti, Gurudath Nayak, Premchand Reddy Punuru
-Ingersoll Rand, India; syenneti@purdue.edu
-
-ID: 2410
-Comparison between HFC-134a and Alternative Refrigerants in Mobile Air Conditioners using the GREEN-MAC-LCCP© Model
-Stella Papasavva1, William Moomaw2
-1Stella Papasavva Consulting; 2Professor of International Environmental Policy at the Fletcher School, Tufts University; greengem09@gmail.com
-
-ID: 2317
-Pneumatically Driven Environmental Control System In Aircrafts Based On A Vapor-compression Cycle
-Steffen Golle1, Ullrich Hesse1, Frank Klimpel2
-1Technische Universität Dresden, Institut für Energietechnik, Germany; 2Airbus Operations GmbH, Germany; Steffen.Golle@tu-dresden.de
-
- 
-R-21: Heat Driven Refrigeration Systems
-Time: Wednesday, 16/Jul/2014: 1:00pm - 3:00pm  •  Location: 214 C&D
-ID: 2194
-Analysis on Parameters of Regeneration Subsystem in Liquid Desiccant Dehumidification Systems
-Min Tu1,3, Chengqin Ren2, Huanxin Cheng3, Haijia Lin1
-1Refrigeration Institute of Gree Electric Appliances, Inc. of Zhuhai, China, People's Republic of; 2College of Mechanical and Vehicle Engineering, Hunan University, China, People's Republic of; 3Shool of Energy and Power Engineering, Huazhong University of Science and Technology,China, People's Republic of; tu_iron_min@163.com
-
-ID: 2207
-Experimental Study On Bubble Absorber With Multiple Tangential Nozzles
-Santosh Kumar Panda, Mani Annamalai
-IIT MADRAS, India; mania@iitm.ac.in
-
-ID: 2429
-Optimized Performance of One-Bed Adsorption Cooling System
-Takahiko Miyazaki1,3, Ibrahim I. El-Sharkawy1,3, Bidyut Baran Saha2,3, Shigeru Koyama1,3
-1Faculty of Engineering Sciences, Kyushu University, Japan; 2Green Asia Education Center, Kyushu University, Japan; 3International Institute for Carbon-Neutral Energy Research, Kyushu University, Japan; tmiyazak@kyudai.jp
-
-ID: 2440
-Transient Performance of a Liquid Desiccant Solar Regenerator
-Habtamu Tafesse Gezahegn, Subhash Chandra Mullick, Sanjeev Jain
-Indian Institute of Technology, Delhi, India; gezisha@yahoo.com
-
-ID: 2456
-Thermodynamic Analysis of Adsorption Refrigeration Cycles Using Parent and Surface Treated Maxsorb III/Ethanol Pairs
-Kutub Uddin1, Ibrahim I. El-Sharkawy1,2, Takahiko Miyazaki1, Bidyut Baran Saha1, Shigeru Koyama1
-1Kyushu University, Japan; 2Mansura University, Egypt; k-uddin@phase.cm.kyushu-u.ac.jp
-
- 
-R-22: Heat & Mass Transfer Performance & Analysis
-Time: Wednesday, 16/Jul/2014: 1:00pm - 3:00pm  •  Location: 218 A&B
-ID: 2432
-Mass Diffusion Coefficient Of Desiccants For Dehumdification Applications: Silica Aerogels And Silica Aerogel Coatings On Metal Foams
-Kashif Nawaz1, Shelly J. Schmidt2, Anthony M. Jacobi1
-1Department of Mechanical Science and Engineering, University of Illinois at Urbana Champaign, United States of America; 2Department of Food Science and Human Nutrition, University of Illinois at Urbana Champaign, United States of America; nawaz1@illinois.edu
-
-ID: 2198
-Impact of Dehumidification Modelling on the Performance Prediction for Minichannel Evaporators
-Abdelrahman Hussein Hassan, Santiago Martinez-Ballester, José Gonzálvez-Maciá
-Institute for Energy Engineering, Universitat Politècnica de València, Spain; jgonzalv@ter.upv.es
-
-ID: 2205
-Fin Performance Analysis for Microchannel Heat Exchangers Under Dry, Wet and Partial Wet Conditions
-Long Huang, Daniel Bacellar, Vikrant Aute, Reinhard Radermacher
-University of Maryland, College Park, United States of America; long730@umd.edu
-
-ID: 2445
-Absorption Heat Transfer Performance of Ammonia-Water Mixture in 116 Tube Mini-Channel Heat Exchanger
-Dennis Marijn van de Bor, Carlos A. Infante Ferreira
-TU Delft, Netherlands, The; d.m.vandebor@tudelft.nl
-
-ID: 2567
-Designing And Testing An Air-PCM Heat Exchanger For Building Ventilation Application Coupled To Energy Storage
-Bertrand Dechesne1, Samuel Gendebien1, Jonathan Martens2, Vincent Lemort1
-1University of Liège, Aerospace and Mechanical Engineering Department, Thermodynamics Laboratory; 2Greencom development s.c.r.l; bdechesne@ulg.ac.be
-
-ID: 2405
-The Effect Of Type-III Antifreeze Proteins (AFPs) On CO2 Hydrate Slurry Formation
-Hongxia Zhou, Carlos A. Infante Ferreira
-Delft University of Technology, Netherlands, The; h.zhou-1@tudelft.nl
-
- 
-B-10: Model Predictive Controls II
-Time: Wednesday, 16/Jul/2014: 1:00pm - 3:00pm  •  Location: 218 C&D
-ID: 3610
-Simulation of Model-based Predictive Control Applied to a Solar-assisted Cold Climate Heat Pump System
-Jose Candanedo, Vahid R. Dehkordi
-CanmetENERGY-Varennes, NRCan, Canada; jose.candanedo@nrcan.gc.ca
-
-ID: 3641
-Modeling And Predictive Control Of High Performance Buildings With Distributed Energy Generation And Thermal Storage
-Siwei Li1, Panagiota Karava2
-1Purdue University, School of Civil Engineering, West Lafayette, Indiana, USA.; 2Purdue University, School of Civil Engineering and Division of Construction Engineering and Management, West Lafayette, Indiana, USA.; li613@purdue.edu
-
-ID: 3379
-Model Predictive Control for Central Plant Optimization with Thermal Energy Storage
-Michael J. Wenzel, Robert D. Turney, Kirk H. Drees
-Johnson Controls Inc., United States of America; mike.wenzel@jci.com
-
-ID: 3314
-Smart Grid Energy Flexible Buildings Through The Use Of Heat Pumps In The Belgian Context
-Emeline Georges1, Gabrielle Masy2, Clara Verhelst3, Vincent Lemort1, Philippe André1
-1University of Liège; 2Haute Ecole de la Province de Liège; 3E; emeline.georges@ulg.ac.be
-
-ID: 3268
-Energy Consequences of Non-optimal Heat Pump Parameterization
-Alberto Tejeda1,2, Anamaria Milu2, Philippe Riviere1, Dominique Marchio1
-1CES Mines Paristech, France; 2EDF R&D, France; alberto.tejeda@mines-paristech.fr
-
-ID: 3611
-Distributed Model Predictive Control for building HVAC systems: A Case Study
-Vamsi Kalyan Putta, Donghun Kim, Jie Cai, Jianghai Hu, James E. Braun
-Purdue University, United States of America; vputta@purdue.edu
-
- 
-C-14: Tribology Lubrication II
-Time: Wednesday, 16/Jul/2014: 1:00pm - 3:00pm  •  Location: 310
-ID: 1562
-Hydrodynamic-Pressure-Induced Elastic Deformation of Thrust Slide-Bearings in Scroll Compressors and Oil Film Pressure Increase Due to Oil Envelopment
-Noriaki Ishii1, Takuma Tsuji2, Keiko Anami3, Charles W. Knisely4, Tatsuya Oku2, Koichi Nokiyama1, Kiyoshi Sawai5, Hirofumi Yoshida6, Hiroaki Nakai6
-1Osaka Electro-Communication University, Japan; 2Mayekawa MFG. Co., Ltd.; 3Ashikaga Institute of Technology, Japan; 4Bucknell University, USA; 5Hiroshima Institute of Technology, Japan; 6Appliances Company, Panasonic Corporation; ishii@isc.osakac.ac.jp
-
-ID: 1507
-Effect of Lubricant-Refrigerant Mixture Properties on Compressor Efficiencies
-Scott S. Wujek1, Chad D. Bowers1, Paul Okarma1, Roberto A. Urrego2, Edward T. Hessell2, Travis L. Benanti2
-1Creative Thermal Solutions; 2Chemtura Corporation; scott.wujek@creativethermalsolutions.com
-
-ID: 1296
-Mixed Lubrication Analysis of Vane Sliding Surface in Rotary Compressor Mechanisms
-Yasutaka Ito1, Hitoshi Hattori1, Kazuhiko Miura2
-1Corporate Research & Development Center, Toshiba Corporation, Japan; 2Toshiba Carrier Corporation; yasutaka.ito@toshiba.co.jp
-
-ID: 1485
-Investigation On Premature Failure Of the Self-lubricated Piston Rings in Oil-free Compressor
-Jinfeng Chen, Bin Zhao, Jianmei Feng, Xueyuan Peng
-Xi’an Jiaotong University, China, People's Republic of; chenjinfeng@stu.xjtu.edu.cn
-
-ID: 1348
-Oil Management Solutions For Manifolding Scroll Compressors For Refrigeration Systems
-Ying Dong1, Leping Zhang2, Serdar Suindykov3, Kang Zheng4, Peng Liu5
-1Danfoss, China, People's Republic of; 2Danfoss, China, People's Republic of; 3Danfoss, China, People's Republic of; 4Danfoss, China, People's Republic of; 5Danfoss, China, People's Republic of; Zhangleping@danfoss.com
-
-ID: 1201
-An Investigation on the Bearing Design and Friction Characteristics of a Hermetic Reciprocating Compressor
-Ahmet Refik Ozdemir1, Erhan Kasapoğlu2, Bilgin Hacıoğlu2, Mustafa Duyar3
-1Arcelik A.S. Research and Development Center,Istanbul,Turkey; 2Arcelik A.S. Compressor Plant, Eskisehir, Turkey; 3Anova Mühendislik., Istanbul, Turkey; ahmetrefik.ozdemir@arcelik.com
-
- 
-C-15: Expanders
-Time: Wednesday, 16/Jul/2014: 1:00pm - 3:00pm  •  Location: 314
-ID: 1446
-Analysis of a Rotating Spool Expander for Organic Rankine Cycles in Heat Recovery Applications
-Abhinav Krishna1, Craig R. Bradshaw2, Eckhard A. Groll1
-1Purdue University, United States of America; 2Torad Engineering LLC, Alpharetta, GA; krishna1@purdue.edu
-
-ID: 1538
-Multi-Variable Optimisation Of Wet Vapour Organic Rankine Cycles With Twin-Screw Expanders
-Matthew Read, Ian Smith, Nikola Stosic
-City University London, United Kingdom; m.read@city.ac.uk
-
-ID: 1506
-Comprehensive Model of a Single-screw Expander for ORC-Systems
-Davide Ziviani1, Ian Bell2, Martijn van den Broek1, Michel De Paepe1
-1Ghent University, Belgium; 2University of Liege; davide.ziviani@ugent.be
-
-ID: 1129
-Introduction of the Novel Cross Vane Expander-Compressor Unit for Vapour Compression Cycle
-Ken Shaun Yap1,2, Kim Tiow Ooi1, Anutosh Chakraborty1
-1Nanyang Technological University, Singapore, Singapore; 2TUM CREATE; ksyap2@e.ntu.edu.sg
-
-ID: 1478
-Analysis of a Twin Screw Expander for ORC Systems using Computational Fluid Dynamics with a Real Gas Model
-Iva Papes, Joris Degroote, Jan Vierendeels
-Ghent University, Belgium; iva.papes@ugent.be
-
-ID: 1449
-Application-Oriented Design and Theoretical Investigation of a Screw-Type Steam Expander
-Manuel Grieb, Andreas Bruemmer
-TU Dortmund University, Germany; andreas.bruemmer@tu-dortmund.de
-
- 
-C-16: Compressor Modeling IV
-Time: Wednesday, 16/Jul/2014: 1:00pm - 3:00pm  •  Location: 322
-ID: 1300
-Accounting for Local Thermal Distortions in a Chamber Model for Twin Screw Compressors
-David Buckney1, Ahmed Kovacevic2, Nikola Stosic2
-1Howden Compressors Ltd., United Kingdom; 2City University London, Centre for Positive Displacement Compressor Technology, London, UK; david.buckney@howden.com
-
-ID: 1237
-Investigation Of The Parameters Affecting Crankshaft And Rotor Interference Fit
-Nazım Arda Eyyuboğlu
-Arçelik A.Ş. Compressor Plant, Turkey; arda.eyyuboglu@arcelik.com
-
-ID: 1374
-A NTU-Based Model to Estimate Suction Superheating In Scroll Compressors
-Marco C. Diniz, Cesar J. Deschamps
-POLO / UFSC, Brazil; marcodiniz@polo.ufsc.br
-
-ID: 1372
-A Neural Network to Predict the Temperature Distribution in Hermetic Refrigeration Compressors
-Ernane Silva, Marco C. Diniz, Cesar J. Deschamps
-POLO / UFSC, Brazil; ernane@polo.ufsc.br
-
-ID: 1414
-Wave Propagation in a Radial Duct with Mean Swirling Flow
-Yujun Leng, Sanford Fleeter
-Purdue University, West Lafayette, United States of America; leng@purdue.edu
-
-ID: 1701
-Implementation of Sobol’s Method of Global Sensitivity Analysis to a Compressor Simulation Model
-Nasir Bilal
-Purdue University, United States of America; nasirbilal@gmail.com
-
- 
-R-23: Air Conditioning for Hybrid & Electric Vehicles
-Time: Wednesday, 16/Jul/2014: 3:30pm - 5:30pm  •  Location: 214 A&B
-ID: 2526
-Comparison and Evaluation of a New Innovative Drive Concept for the Air Conditioning Compressor of Electric Vehicles
-Joerg Aurich, Rico Baumgart, Christoph Danzer, Jan Ackermann
-IAV GmbH, Germany; joerg.aurich@iav.de
-
-ID: 2202
-Experimental Comparison of the Refrigerant Reservoir Position in a Primary Loop Refrigerant Cycle with Optimal Operation
-Jan Christoph Menken1, Thomas Weustenfeld1, Jürgen Köhler2
-1AUDI AG, Germany; 2Technische Universität Braunschweig, Institut für Thermodynamik, Germany; jan-christoph.menken@audi.de
-
-ID: 2509
-Mobile Heat Pump Exploration Using R445A and R744
-Andrew Musser, Predrag S. Hrnjak
-Creative Thermal Solutions, Inc., United States of America; andrew.musser@creativethermalsolutions.com
-
-ID: 2386
-Chances and Limitations of a Hybrid Refrigerant System for Vehicle Air Conditioning
-Ullrich Hesse
-Technische Universität Dresden, Germany; ullrich.hesse@tu-dresden.de
-
- 
-R-24: Organic Rankine Cycle
-Time: Wednesday, 16/Jul/2014: 3:30pm - 5:30pm  •  Location: 214 C&D
-ID: 2402
-Experimental investigation of a Scroll unit used as a compressor and as an expander in a Heat Pump/ORC reversible unit
-Olivier Dumont, Sylvain Quoilin, Vincent Lemort
-ULg, Belgium; olivier.dumont@ulg.ac.be
-
-ID: 2190
-Methods of Increasing Net Work Output of Organic Rankine Cycles for Low-Grade Waste-Heat Recovery
-Brandon J. Woodland, James E. Braun, Eckhard A. Groll, W. Travis Horton
-Herrick Laboratories, United States of America; bwoodlan@purdue.edu
-
-ID: 2330
-Combined Rankin and Organic Rankin Cycles with Screw Expenders
-Yan Tang
-Kaishan Compressor, China; kaishanus1@163.com
-
-ID: 2546
-Comparing R1233zd And R245fa For Low Temperature ORC Applications
-Bala V. Datla1, Joost J. Brasz2
-1Verdicorp,Tallahassee, FL; 2Syracuse Turbo Machinery LLC, Syracuse, NY; bala.datla@verdicorp.com
-
-ID: 2550
-HFO-1336mzz-Z: High Temperature Chemical Stability and Use as A Working Fluid in Organic Rankine Cycles
-Konstantinos Kontomaris
-DuPont Fluorochemicals, United States of America; Konstantinos.Kontomaris@DuPont.com
-
-ID: 2653
-Experimental Comparison Of Working Fluids For Organic Rankine Cycle With Single-Screw Expander
-Sergei Gusev1, Davide Ziviani1,2, Ian Bell3, Michel De Paepe2, Martijn van den Broek1,2
-1Department of Industrial System and Product Design, Ghent University Graaf Karel de Goedelaan 5, 8500 Kortrijk, Belgium; 2Department of Flow, Heat, and Combustion Mechanics, Ghent University Sint-Pietersnieuwstraat 41, 9000 Gent, Belgium; 3Thermodynamics Laboratory, University of Liège, Campus du Sart Tilman, B49, B-4000 Liège, Belgium; sergei.gusev@ugent.be
-
- 
-R-25: Flow & Pool Boiling
-Time: Wednesday, 16/Jul/2014: 3:30pm - 5:30pm  •  Location: 218 A&B
-ID: 2220
-Experimental Analysis of R134a and R1234ze(E) Flow Boiling Inside a Roll Bond Evaporator
-Giulia Righetti, Claudio Zilio, Giovanni A. Longo
-University of Padova, Department of Management and Engineering, I-36100 Vicenza, Italy.; giulia.righetti@studenti.unipd.it
-
-ID: 2334
-Theoretical and Experimental Research on CO2 Electrical Heating Pool Boiling Heat Transfer Outside a Horizontal Tube
-Lan Li, Shengchun Liu, Jinghong Ning
-Tianjin University of Commerce, China, People's Republic of; lilan198903@163.com
-
-ID: 2332
-Two Phase Flow Boiling Heat Transfer and Pressure Drop of Two New LGWP Developmental Refrigerants Alternative to R-410A
-Jeremy Ryan Smith, Lorenzo Cremaschi
-School of Mechanical and Aerospace Engineering, Oklahoma State University; jeremy.r.smith@okstate.edu
-
-ID: 2392
-A General Correlation to Predict The Flow Boiling Heat Transfer of R410A in Macro/Mini Channels
-Nguyen-Ba Chien1, Pham-Quang Vu1, Kwang-Il Choi2, Jong-Taek Oh2
-1Graduate School, Chonnam National University, San 96-1, Dunduk-Dong, Yeosu, Chonnam 550-749, Republic of Korea; 2Department of Refrigeration and Air Conditioning Engineering, Chonnam National University, San 96-1, Dunduk-Dong, Yeosu, Chonnam 550-749, Republic of Korea; ohjt@chonnam.ac.kr
-
-ID: 2383
-Hydrodynamic Modeling of Flow Reversal in Micro-channel Flow Boiling
-Milagros Belmares, Young-Gil Park
-University of Texas-Pan American, United States of America; parkyg@utpa.edu
-
-ID: 2460
-R1234yf FLOW BOILING HEAT TRANSFER INSIDE A 3.4 mm ID MICROFIN TUBE
-Andrea Diani1, Mariana Tiemi Tamura2, Simone Mancin1, Jader Barbosa2, Luisa Rossetto1
-1University of Padova, Dept. of Industrial Engineering, Padova, 35131, Italy; 2Departamento de Engenharia Mecânica, Universidade Federal de Santa Catarina, Florianópolis, SC, 88040-900, Brazil; simone.mancin@unipd.it
-
- 
-B-11: Building Envelope Systems & Comfort
-Time: Wednesday, 16/Jul/2014: 3:30pm - 5:30pm  •  Location: 218 C&D
-ID: 3654
-A Review of Thermal Analysis on Novel Roofing Systems
-Yuanpei Song, Ming Qu
-Purdue University, West Lafayette, IN, US; song120@purdue.edu
-
-ID: 3523
-Selection of Representative Buildings through Preliminary Cluster Analysis
-Rigoberto Arambula Lara1, Francesca Cappelletti2, Piercarlo Romagnoni2, Andrea Gasparella1
-1Free University of Bozen/Bolzano, Italy; 2University IUAV of Venezia, Italy; francesca.cappelletti@iuav.it
-
-ID: 3575
-Daylight Glare Probability Measurements And Correlation With Indoor Illuminances In A Full-Scale Office With Dynamic Shading Controls
-Iason Konstantzos1,2, Athanasios Tzempelikos1,2
-1School of Civil Engineering, Purdue University, 550 Stadium Mall Dr., West Lafayette, IN 47907 USA; 2Ray W. Herrick Laboratories, School of Mechanical Engineering, Purdue University, 140 S. Martin Jischke Dr., West Lafayette, IN 47907, USA; ikonsta@purdue.edu
-
-ID: 3629
-Study of Unsteady State Thermal Characteristics of Homogeneous and Composite Walls of Building and Insulating Materials for Passive Cooling
-Ashok Babu Puttaranga Setty Talanki, S Saboor
-National Institute of Technology Karnataka, India; tpashok@rediffmail.com
-
-ID: 3183
-Thermal Performance and Moisture Accumulation of Mechanical Pipe Insulation Systems Operating at Below Ambient Temperature in Wet Conditions with Moisture Ingress
-Weiwei Zhu, Shanshan Cai, Lorenzo Cremaschi
-Oklahoma State University, United States of America; weiwei.zhu@okstate.edu
-
-ID: 3139
-Experimental Evaluation on Fire Protection of Load Bearing Steel Structures with Coatings Commonly used in China
-Xue Dong, W.K. Chow, Nai-Kong Fong
-The Hong Kong Polytechnic University, Hong Kong S.A.R. (China); beelize@polyu.edu.hk
-
- 
-C-17: Alternative Refrigerants
-Time: Wednesday, 16/Jul/2014: 3:30pm - 5:30pm  •  Location: 310
-ID: 1390
-Lower GWP Refrigerants Compared to R404A for Economizer Style Compressors
-Lars Sjoholm1, Cody Kleinboehl3, Young Chan Ma2
-1Ingersoll Rand / Thermo King, United States of America; 2Ingersoll Rand / Thermo King, United States of America; 3Ingersoll Rand / Thermo King, United States of America; Lars_Sjoholm@irco.com
-
-ID: 1491
-Solution Properties Of Polyol Ester Lubricants Designed For Use With R-32 And Related Low GWP Refrigerant Blends
-Roberto Arturo Urrego Leon, Travis L. Benanti, Edward T. Hessell
-Chemtura Corporation, United States of America; roberto.urrego@chemtura.com
-
-ID: 1595
-Evaluation of methods to decrease the discharge temperature of R32 scroll compressor
-Baolong Wang1, Minghong Yang1, Philippe Dewitte2, Leping Zhang3, Wenxing Shi1
-1Department of Building and Science, Tsinghua University, Beijing, 100084, China; 2Danfoss Commercial Compressor, BP331-ZI de Reyrieux Trevoux Cedex, F-01603, France; 3Danfoss (Tianjin) Ltd, Commercial Scroll Compressor, Tianjin, China; wangbl@tsinghua.edu.cn
-
-ID: 1482
-Effects of Low Suction Temperature on the Boil-off Gas compressor
-Bin Zhao, Bin Du, Xueyuan Peng, Jianmei Feng
-Xi'an JiaoTong University, China, People's Republic of; zblqwy@163.com
-
-ID: 1289
-Research and Development of R290 Less Oil Rotary Compressor
-Bin Gao, Canyu Qian, Zhenhua Chen, Shuangjian Liang
-Guangdong Meizhi Compressor Co., Ltd., China; gaob@chinagmcc.com
-
-ID: 1286
-Development of High Efficiency Swing Compressor for R32 Refrigerant
-Yuuichi Yamamoto, Takehiro Kanayama, Kenichi Yuasa, Hideki Matsuura
-DAIKIN INDUSTRIES,LTD., Japan; yuuichi1.yamamoto@daikin.co.jp
-
- 
-C-18: Screw Compressors
-Time: Wednesday, 16/Jul/2014: 3:30pm - 5:30pm  •  Location: 314
-ID: 1409
-The Selection Of Screw Rotor Geometry With Compressor Speed As A Design Variable
-Matt Cambio, Gordy Powell
-Ingersoll Rand, United States of America; mcambio@trane.com
-
-ID: 1476
-Modelling and Experimental Investigation of Unsteady Behaviour of a Screw Compressor Plant
-Ekatarina Chukanova, Nikola Stosic, Ahmed Kovacevic
-City University London, United Kingdom; a.kovacevic@city.ac.uk
-
-ID: 1353
-Study of Multiphase Flow at the Suction of Screw Compressor
-Mohammad Arjeneh, Ahmed Kovacevic, Manolis Gavaises, Sham Rane
-City University London, United Kingdom; arjeneh@gmail.com
-
-ID: 1335
-Experimental Studies of The Multi-cylinders Compound Profile Meshing Pair
-Rui Huang, Ting Li, Jian Li, Feilong Liu, Quanke Feng
-Xi’an Jiaotong University, China, People's Republic of; huangrui.6@stu.xjtu.edu.cn
-
-ID: 1667
-Non-contacting Seals in Screw Compressors
-Michael Beinert, Jan Hauser
-GHH RAND Schraubenkompressoren GmbH - Ingersoll Rand Industrial Technologies, Germany; jhauser@irco.com
-
-ID: 1138
-Experiment Study of a Water Injected Twin Screw Compressor for Mechanical Vapor Compression System
-Jiubing Shen, Hao Tang, Zhen Zhang, Ziwen Xing
-Xi'an Jiaotong University, China, People's Republic of; shenjiubing@stu.xjtu.edu.cn
-
- 
-C-19: Compressor Modeling V
-Time: Wednesday, 16/Jul/2014: 3:30pm - 5:30pm  •  Location: 322
-ID: 1702
-Global Sensitivity Analysis of a Multi-Cylinder Automotive Reciprocating Compressor
-Nasir Bilal
-Purdue University, United States of America; nasirbilal@gmail.com
-
-ID: 1703
-Design Optimization of the Suction Manifold of a Reciprocating Compressor Using Sensitivity Analysis
-Nasir Bilal
-Purdue University, United States of America; nasirbilal@gmail.com
-
-ID: 1424
-Investigation of Flow Losses Through Discharge Line of Household Type Refrigerator Compressors
-Ismail Yesilaydin1, L. Berrin Erbay2, Cemil Inan1
-1Arcelik A.S. Refrigerator & Compressor Plants, Turkey; 2Eskisehir Osmangazi University, Turkey; ismail.yesilaydin@arcelik.com
-
-ID: 1197
-New Version of the Universal Modeling for Centrifugal Compressor Gas Dynamic Design
-Kristina Soldatova1, Galerkin Yuri2, Drozdov Aleksandr3
-1Sankt-Peterburg State Polytechnical University, Russian Federation; 2Sankt-Peterburg State Polytechnical University, Russian Federation; 3Sankt-Peterburg State Polytechnical University, Russian Federation; buck02@list.ru
-
-ID: 1211
-The Finite Element Analysis of the Deflection of the Crankshaft of Rotary Compressor
-Lingchao Kong, Liping Ren, Jia Xu, Yusheng Hu
-Gree Electric Appliances, Inc. of Zhuhai, China, People's Republic of; klc03@163.com
-
-ID: 1302
-Modeling of Rolling-Piston Compressors with Special Attention to the Suction and Discharge Processes
-Ricardo D. Brancher, Cesar J. Deschamps
-Federal University of Santa Catarina, Brazil; deschamps@polo.ufsc.br
-
- 
-R-26: Air Conditioner Performance & Analysis
-Time: Thursday, 17/Jul/2014: 9:45am - 12:00pm  •  Location: 214 A&B
-ID: 2121
-The Evaluation method of HVAC System’s operation performance based on Energy Flow Analysis and DEA
-Xing Fang1, Xinqiao Jin2, Bo Fan3, Yonghua Zhu4
-1Shanghai Jiao Tong University, China, People's Republic of; 2Shanghai Jiao Tong University, China, People's Republic of; 3Shanghai Jiao Tong University, China, People's Republic of; 4Shanghai Jiao Tong University, China, People's Republic of; windofreeds@sjtu.edu.cn
-
-ID: 2185
-Experimental Study on Match for Indoor and Outdoor Heat Exchanger of Residential Air-conditioner
-Xiaoping Tu1, Xiangfei Liang2, Rong Zhuang3
-1Chinese National Engineering Research Center of Green Refrigeration Equipment, Zhuhai City, Guangdong Province, P. R. China; 2Chinese National Engineering Research Center of Green Refrigeration Equipment, Zhuhai City, Guangdong Province, P. R. China; 3Gree Electric Appliances Inc. of Zhuhai, Refrigeration Institute, Zhuhai City, Guangdong Province, P. R. China; txp125@126.com
-
-ID: 2277
-Impact of Charge Degradation on the Life Cycle Climate Performance of a Residential Air- Conditioning System
-Mohamed Beshr1, Vikrant Aute1, Omar Abdelaziz2, Brian Fricke2, Reinhard Radermacher1
-1University of Maryland, United States of America; 2Oak Ridge National Laboratory, USA; mbeshr@umd.edu
-
-ID: 2566
-Refrigeration Modeling Components in OpenStudio
-Mark Adams1, Jibonananda Sanyal1, Brian Fricke1, Kyle Benne2
-1Oak Ridge National Laboratory, United States of America; 2National Renewable Energy Laboratory; sanyalj@ornl.gov
-
-ID: 2438
-Estimation of Vapor Quality at Compressor Suction of Air Conditioner
-Kazuhiro Endoh
-Hitachi, Ltd., Japan; kazuhiro.endo.un@hitachi.com
-
-ID: 2239
-Using Simulation Model to Reduce System Design Time and Cost
-Vijay Bahel1, Suresh Shivashankar2
-1Emerson Climate Technologies, United States of America; 2Emerson Design Services Network; Vijay.Bahel@Emerson.com
-
- 
-R-27: Supermarket & Beverage Refrigeration Systems
-Time: Thursday, 17/Jul/2014: 9:45am - 12:00pm  •  Location: 214 C&D
-ID: 2126
-Comparing COP Optimization with Maximizing the Coefficient of System Performance for Refrigeration Systems in Supermarkets
-Martin R. Braun1, Stephen B. M. Beck1, Haşim Altan2
-1The University of Sheffield, Sheffield, United Kingdom; 2The British University in Dubai, Dubai Academic International City, United Arab Emirates; dtp11mrb@sheffield.ac.uk
-
-ID: 2441
-Waste Heat Dehumidification in CO2 Booster Supermarket
-Brian Fricke, Vishaldeep Sharma, Pradeep Bansal
-ORNL, United States of America; frickeba@ornl.gov
-
-ID: 2467
-Refrigerant Charge Reduction In Small Commercial Refrigeration Systems
-Lingyan Jiang1, Predrag S. Hrnjak2
-1ACRC, U of Illinois, United States of America; 2ACRC, U of Illinois, CTS; ljiang13@illinois.edu
-
-ID: 2192
-Successful Design, Implementation, And Validation Of Transcritical R744 Technology For Beverage Display Coolers
-Stefan Elbel1,2, Yadira Padilla Fuentes1, Chad D. Bowers1, Predrag S. Hrnjak1,2
-1Creative Thermal Solutions, USA; 2University of Illinois at Urbana-Champaign, USA; stefan.elbel@creativethermalsolutions.com
-
-ID: 2457
-Reducing Display Bottle Cooler Energy Consumption Using PCM As Active Thermal Storage
-Marcel van Beek, Hans de Jong
-Re/genT BV, Netherlands, The; marcel.van.beek@re-gent.nl
-
-ID: 2458
-Extremely Low Refrigerant Charge Beverage Display Cooler Technology Using Propane
-Yadira Padilla Fuentes1, Stefan Elbel1,2, Predrag S. Hrnjak1,2
-1Creative Thermal Solutions, USA; 2University of Illinois at Urbana-Champaign, USA; yadira.padilla@creativethermalsolutions.com
-
-ID: 2473
-Study On Energy Conservation And Carbon Dioxide Emission Reduction Of Commercial Display Refrigerator Of Supermarket Utilizing The Exhaust Heat From The Novel Environment-Friendly Dispersed Power
-Tatsuya Shikano2, Sangchul Bae1, Masafumi Katsuta2, Tomohiro Anamizu3
-1Environmental Research Institute/Waseda University, Japan; 2Department of Modern Mechanical Engineering/Waseda University, Japan; 3Graduate School of Modern Mechanical Engineering/Waseda University, Japan; scbae@aoni.waseda.jp
-
- 
-R-28: Refrigerant & Lubricant Design & Analysis I
-Time: Thursday, 17/Jul/2014: 9:45am - 12:00pm  •  Location: 218 A&B
-ID: 2502
-Refrigerant and Lubricant Mass Distribution in a Convertible Split System Residential Air-Conditioner
-Scott S. Wujek1, Chad D. Bowers1, Joshua W. Powell1, Roberto A. Urrego2, Edward T. Hessell2, Travis L. Benanti2
-1Creative Thermal Solutions; 2Chemtura Corporation; scott.wujek@creativethermalsolutions.com
-
-ID: 2499
-Effects of Refrigerant-Lubricant Combinations on the Energy Efficiency of a Convertible Split-System Residential Air-Conditioner
-Travis L. Benanti1, Edward T. Hessell1, Roberto A. Urrego1, Scott S. Wujek2, Chad D. Bowers2, Stefan Elbel2
-1Chemtura Corporation; 2Creative Thermal Solutions; travis.benanti@chemtura.com
-
-ID: 2413
-Lubricants Optimized for use with R-32 and Related Low GWP Refrigerant Blends
-Edward T. Hessell, Roberto A. Urrego, Travis L. Benanti
-Chemtura Corporation, United States of America; ed.hessell@chemtura.com
-
-ID: 2331
-Lubricant Development To Meet Lower GWP Refrigerant Challenges
-Joseph A. Karnaz
-CPI Engineering, United States of America; jska@cpieng.com
-
-ID: 2351
-Development of refrigeration oil for use with R32
-Hitoshi Takahashi, Katsuya Takigawa, Takeshi Okido
-JX Nippon Oil & Energy Corporation, Japan; takeshi.okido@noe.jx-group.co.jp
-
-ID: 2673
-Development of PVE Refrigeration Lubricants for R32
-Tomoya Matsumoto, Yasuhiro Kawaguchi
-Idemitsu Kosan Co.,Ltd., Japan; tomoya.matsumoto@idemitsu.com
-
- 
-R-29: Vapor Compression Cycle Enhancements II
-Time: Thursday, 17/Jul/2014: 9:45am - 12:00pm  •  Location: 218 C&D
-ID: 2439
-Control Method Of Circulating Refrigerant Amount For Heat Pump System
-Jin Woo Yoo, Dong Ho Kim, Mo Se Kim, Min Soo Kim
-Division of WCU Multiscale Mechanical Design, School of Mechanical & Aerospace Engineering, Seoul National University, Korea, Republic of (South Korea); tomttl@snu.ac.kr
-
-ID: 2269
-Long Term Viability of HFO-1234yf in Stationary Refrigeration Systems – Multi-Year Evaluation of Refrigerant, Lubricant, and Compressor Performance in a Domestic Freezer
-Charles C. Allgood, Bianca Hydutsky, Thomas J. Leck, Joshua Hughes
-DuPont Refrigerants, United States of America; charles.c.allgood-1@dupont.com
-
-ID: 2598
-Thermodynamic Analysis and Optimization of Cascade Condensing Temperature of a CO2(R744)/R404A Cascade Refrigeration System
-Baris Yilmaz1, Nasuh Erdonmez1, Mustafa Kemal Sevindir2, Ebru Mancuhan1
-1Marmara University, Turkey; 2Yildiz Technical University, Turkey; byilmaz@marmara.edu.tr
-
-ID: 2363
-Improvements in Refrigerant Flow Distribution Using an Expansion Valve with Integrated Distributor
-Chad D. Bowers1, Dave Wrocklage2, Stefan Elbel1,3, Predrag S. Hrnjak1,3
-1Creative Thermal Solutions, United States of America; 2Parker-Hannifin Sporlan Division; 3University of Illinois; chad.bowers@creativethermalsolutions.com
-
-ID: 2387
-Potential Of Controlling Subcooling In Residential A/C System
-Lihan Xu1, Predrag S. Hrnjak2
-1Air Conditioning and Refrigeration Center, University of Illinois at Urbana-Champaign, United States of America; 2Creative Thermal Solution; lihanxu2@illinois.edu
-
-ID: 2427
-Seasonal Applicability of Refrigerant Release Technology in Room Air Conditioner
-Baolong Wang, Wenjie Ji, Linjun Han, Wenxing Shi
-Tsinghua University, People's Republic of China; hanlinjun@gmail.com
-
- 
-R-30: Advanced Heat Exchanger Manufacturing & Surface Treatments
-Time: Thursday, 17/Jul/2014: 9:45am - 12:00pm  •  Location: 310
-ID: 2158
-Self-healing, Slippery Surfaces for HVAC&R Systems
-Rong Yu, Anthony M. Jacobi
-University of Illinois at Urbana-Champaign, United States of America; rongyu2@illinois.edu
-
-ID: 2252
-Enhanced Heat Exchanger with Offset Spine Fin Design
-Michael Kempiak, Brent Junge
-General Electric, United States of America; michael.kempiak@ge.com
-
-ID: 2397
-Nanoparticle Deposition by Boiling on Aluminum Surfaces to Enhance Wettability
-Feini Zhang, Anthony M. Jacobi
-University of Illinois at Urbana Champaign, United States of America; fzhang8@illinois.edu
-
-ID: 2411
-Using Surface Wettability to Impact the Frost Properties and Defrosting Effectiveness of a Metallic Heat Transfer Surface
-Nicholas Truster1, Catherine Puleo2, Edgar Caraballo1, Andrew Sommers1
-1Dept. of Mechanical and Manufacturing Engineering, Miami University, Oxford, OH 45056; 2Dept. of Chemical, Paper, and Biomedical Engineering, Miami University, Oxford, OH 45056; sommerad@miamioh.edu
-
-ID: 2461
-Influence of Surface Morphology on Wetting Behaviors of Liquid Metal during Aluminum Heat Exchanger Fabrication
-Hui Zhao, Stefan Elbel, Predrag S. Hrnjak
-Creative Thermal Solutions, Inc., United States of America; hui.zhao@creativethermalsolutions.com
-
- 
-C-20: Efficiency Enhancements
-Time: Thursday, 17/Jul/2014: 9:45am - 12:00pm  •  Location: 314
-ID: 1219
-On The Strategies Towards Isothermal Gas Compression And Expansion
-Mahbod Heidari, Sylvain Lemofouet, Alfred Rufer
-LEI, EPFL, Switzerland; mahbod.heidari@epfl.ch
-
-ID: 1168
-Compressor Efficiency Improvement By Reducing Heat Transfer
-Sophie Colmek
-Tecumseh Europe, France; sophie.colmek@tecumseh.com
-
-ID: 1469
-Volumetric Efficiency Improvement by Overflow in Rolling Piston Compressor
-Wen Wang, Gensheng Huang, Yilin Zhang
-Shanghai Jiao Tong University, China, People's Republic of; wenwang@sjtu.edu.cn
-
-ID: 1649
-An Experimental Study of a Multi-port Vapor Injected Scroll Compressor
-Yuanpei Song, Bin Yang, Eckhard A. Groll, James E. Braun, W. Travis Horton
-Purdue University, West Lafayette, IN, US; song120@purdue.edu
-
-ID: 1346
-Performance Improvement of a High Side Scroll Compressor by Thrust Surface Oil Groove
-Hyun-Jin Kim1, Yong-Hee Kim1, Young-Sung Lee1, Un-Seop Lee2, Jeong-Bae Lee2, Yang-Hee Cho2
-1Incheon National University, Korea, Republic of (South Korea); 2Compressor R&D Group, Comp. & Motor Team, Digital Appliances, Samsung Electronics Co. Ltd; kimhj@incheon.ac.kr
-
-ID: 1434
-Development of Rotary Compressor for High-efficiency CO2 Heat-pump Hot-Water Supply System
-Takeshi Chinen, Hisataka Kato, Masaya Ichihara, Hiroyuki Mizuno
-Toshiba Carrier Corporation, Japan; takeshi.chinen@toshiba.co.jp
-
-ID: 1262
-Theoretical and Experimental Research on The Optimal Displacement Ratio of Rotary Two-Stage Inverter Compressor With Vapor Injection
-Huifang Luo, Lingao Lu, Huijun Wei, Ouxiang Yang, Xumin Zhao
-Gree Electric Appliances, Inc. of Zhuhai, China, People's Republic of; luohuifang0616@126.com
-
- 
-C-21: Valves I
-Time: Thursday, 17/Jul/2014: 9:45am - 12:00pm  •  Location: 206
-ID: 1217
-Experimental Analysis of the Fluid Structure Interaction in a Suction Valve Model
-José Luiz Gasche, Danilo Martins Arantes, Thiago Andreotti
-Unesp-Ilha Solteira; gasche@dem.feis.unesp.br
-
-ID: 1543
-Efficiency Improvement of Rotary Compressor by Improving the Discharge path through Simulation
-Siva Rama Krishna Bolloju, Vamsi Tiruveedhula, Naveen Munnangi, Koteswara Rao Vaddadi, Pratap Reddy M
-Tecumseh Products India Private Limited, India; b.sivaramakrishna@tecumseh.com
-
-ID: 1144
-An Approach Towards Reed Valve Geometry Design
-Sandeep Dhar, Bhaskar Tamma, Aditya Bhakta, Murali Krishna
-GE Global Research Bangalore, India; Aditya.Bhakta@ge.com
-
-ID: 1159
-Effective Flow And Force Areas Of Discharge Valve In A Rotary Compressor
-Qin Tan, Zhan Liu, Junming Cheng, Quanke Feng
-Xi'an Jiaotong University, China, People's Republic of; tanqin@stu.xjtu.edu.cn
-
-ID: 1209
-Dynamic Performance of Valve in Reciprocating Compressor Used Stepless Capacity Regulation System
-Guangbin Liu, Yuanyang Zhao, Le Wang, Qichao Yang, Bin Tang, Liansheng Li
-State key laboratory for compressor technology, Hefei General Machinery Research Institute, People's Republic of China; guangbin0805@163.com
-
-ID: 1408
-Selection of Flapper Valve Steel for High Efficient Compressor
-Mathias Hareland1, Anders Hoel1, Stefan Jonsson2, David Liang2, Guocai Chai1,3
-1Sandvik Materials Technology, R&D, 811 81 SANDVIKEN, Sweden; 2Sandvik Materials Technology, Strip, 811 81 SANDVIKEN, Sweden; 3Engneering Materials, Linköping University, 581 83 Linköping, Sweden; guocai.chai@sandvik.com
-
- 
-R-31: Noise & Acoustics
-Time: Thursday, 17/Jul/2014: 1:00pm - 3:00pm  •  Location: 214 A&B
-ID: 2127
-An Experimental Study on the Capillary Tube Flow and its Effect on the Acoustic Behavior of Household Refrigerators
-Daniel Hartmann, Cláudio Melo
-Federal University of Santa Catarina, Brazil; melo@polo.ufsc.br
-
-ID: 2141
-Noise Generation in Household Refrigerators: An Experimental Study on fluid Borne Noise
-Carlos Boabaid Neto, Cláudio Melo, Arcanjo Lenzi, André L. G. Caetano
-Federal University of Santa Catarina, Brazil; melo@polo.ufsc.br
-
-ID: 2312
-Shape Optimization of a Compressor Supporting Plate Based on Vibration Modes
-Olavo M. Silva1, Thiago M. Guesser1, Igor M. Guesser1, Claudio de Pellegrini2, Carlos E. Vendrami2, Arcanjo Lenzi1
-1Federal University of Santa Catarina, Brazil; 2EMBRACO, Research & Development Group, Brazil; olavo@lva.ufsc.br
-
-ID: 2160
-Pressure Loss Analysis of the Perforated Tube Attenuator
-Zhan Liu, Qin Tan, Jming Cheng, Xling Yu, Quanke Feng
-Xi'an Jiaotong university, China, People's Republic of; lzlp68@163.com
-
- 
-R-32: Domestic Refrigeration & Freezer Analysis
-Time: Thursday, 17/Jul/2014: 1:00pm - 3:00pm  •  Location: 214 C&D
-ID: 2119
-Prediction of Evaporator Frosting in Household Refrigerators Subjected to Periodic Door Opening
-Bruno N. Borges1, Cláudio Melo1, Christian J. L. Hermes2
-1Federal University of Santa Catarina; 2Federal University of Paraná; chermes@ufpr.br
-
-ID: 2228
-Visualization of the Refrigerant Flow at the Capillary Tube Inlet of a Houseold Refrigeration System
-Santiago Martinez-Ballester1, Laetitia Bardoulet2, Alessandro Pisano1, José M. Bordes-Costa1, José M. Corberán1
-1Institute for Energy Engineering, Universitat Politècnica de València, Spain; 2Institut Catholique des Arts et Métiers, France; apisano@iie.upv.es
-
-ID: 2128
-Numerical and Experimental Analysis of Heat and Mass Transfer Processes on Water Trays in Household Refrigerators
-Adriano Francisco Ronzoni1, Cláudio Melo1, Carolin Ries2
-1Federal University of Santa Catarina, Brazil; 2Europaische Studienakademie Kalte; melo@polo.ufsc.br
-
-ID: 2663
-Dynamic Simulation of Household Refrigerators: Numerical Model and Experimental Comparison
-Nicolas Ablanque1, Carles Oliet1, Joaquim Rigola1, Oriol Lehmkuhl2, Assensi Oliva1
-1Centre Tecnològic de Transferència de Calor (CTTC), Universitat Politècnica de Catalunya (UPC); 2Termo Fluids S.L., Barcelona, Spain; carles@cttc.upc.edu
-
-ID: 2189
-Aspects of Household Cooling Technology
-Matthias Mrzyglod, Stefan Holzer
-BSH Bosch und Siemens Hausgeräte GmbH, Germany; matthias.mrzyglod@bshg.com
-
- 
-R-33: Refrigerant & Material Safety & Reliability
-Time: Thursday, 17/Jul/2014: 1:00pm - 3:00pm  •  Location: 218 A&B
-ID: 2669
-Chemical Compatibility of High-Performance Engineering Thermoplastics in Compressor Environments
-Vandita Pai-Paranjape
-SABIC, United States of America; Vandita.Pai-paranjape@sabic-ip.com
-
-ID: 2459
-Leakage of Mildly Flammable Refrigerants into a Room
-Hiroaki Okamoto, Tatsuhito Hattori, Chaobin Dang, Eiji Hihara
-The university of Tokyo, Japan; hiroaki-okamoto@hee.k.u-tokyo.ac.jp
-
-ID: 2132
-Materials Compatibility of HVACR System Materials with Low GWP Refrigerants
-Julie A. Majurin, William Gilles, Steven J. Staats
-Trane/Ingersoll Rand, United States of America; juliea.majurin@trane.com
-
-ID: 2564
-Design of Accelerated Fatigue Tests for Flame Free Refrigeration Fittings
-Michael Wilson1, Chad D. Bowers2
-1Cerro Flow Products, United States of America; 2Creative Thermal Soluations, United States of America; mwilson@cerroflow.com
-
-ID: 2591
-Thermal Decomposition of Lower-GWP Refrigerants
-Makoto Ito, Chaobin Dang, Eiji Hihara
-The University of Tokyo, Japan; m116807@h.k.u-tokyo.ac.jp
-
-ID: 2421
-Fire Hazards of Refrigerants in Air Conditioning Control System
-Y.W. Ng, W.K. Chow
-The Hong Kong Polytechnic University, Hong Kong S.A.R. (China); beelize@polyu.edu.hk
-
-ID: 2672
-Autoignition of R32 and R410 Refrigerant Mixtures with Lubricating Oil
-Adam Boussouf1, Vivien R. Lecoustre1, Hao Li2, Robert By2, Peter B. Sunderland1
-1Department of Fire Protection Engineering, University of Maryland, College Park MD USA; 2Goodman Manufacturing, Houston TX USA; pbs@umd.edu
-
- 
-R-34: Vapor Compression Cycle Enhancements III
-Time: Thursday, 17/Jul/2014: 1:00pm - 3:00pm  •  Location: 218 C&D
-ID: 2454
-Experimental Research On Gas Injection High Temperature Heat Pump With An Economizer
-Yongning He, Lei Jin, Feng Cao, Shengkun Chen
-Xi'an Jiaotong University, China, People's Republic of; yongning.h2010@gmail.com
-
-ID: 2187
-Experimental and Numerical Study on the Performance of R410A Liquid Recirculation Cycles with and without Ejectors
-Neal Lawrence1, Stefan Elbel1,2
-1University of Illinois at Urbana-Champaign; 2Creative Thermal Solutions, Inc.; ndlawre2@illinois.edu
-
-ID: 2157
-A Low Carbon Defrost System
-Thomas William Davies, Robin Campbell
-Frigesco Ltd, United Kingdom; t.w.davies@ex.ac.uk
-
-ID: 2375
-Experimental Investigation of Multi-Functional Variable Refrigerant Flow System
-Xiaojie Lin1, Hoseong Lee1, Yunho Hwang1, Reinhard Radermacher1, Saikee Oh2
-1University of Maryland, United States of America; 2LG Electronics, Republic of Korea; xiaojie@umd.edu
-
-ID: 2519
-Effect of Height Difference on The Performance of Two-phase Thermosyphon Loop Used in Air-conditioning System
-Penglei Zhang1, Xianting Li2, Sheng Shang4, Wenxing Shi3, Baolong Wang5
-1Tsinghua University, China, People's Republic of; 2Tsinghua University, China, People's Republic of; 3Tsinghua University, China, People's Republic of; 4Tsinghua University, China, People's Republic of; 5Tsinghua University, China, People's Republic of; zpl11@mails.tsinghua.edu.cn
-
- 
-R-35: Refrigerant & Lubricant Design & Analysis II
-Time: Thursday, 17/Jul/2014: 1:00pm - 3:00pm  •  Location: 310
-ID: 2398
-Refrigerant and Lubricant Charge in AC Heat Exchangers: Experimentally Validated Model
-Shenghan Jin, Predrag S. Hrnjak
-University of Illinois, United States of America; jinshenghan@gmail.com
-
-ID: 2279
-Modeling of Lubricant Effects in a Microchannel Type Condenser
-Andrea A. M. Bigi, Lorenzo Cremaschi, Daniel E. Fisher
-Oklahoma State University, United States of America; abigi@okstate.edu
-
-ID: 2148
-An Experimentally Validated Model for Microchannel Heat Exchanger Incorporating Lubricant Effect
-Huize Li, Predrag S. Hrnjak
-University of Illinois at Urbana-Champaign, United States of America; huizeli2@illinois.edu
-
-ID: 2325
-Measurements of Oil Retention in a Microchannel Condenser for AC Systems
-Ardiyansyah S. Yatim1,2, Lorenzo Cremaschi1, Daniel E. Fisher1
-1Oklahoma State University, Stillwater, OK, USA; 2University of Indonesia, Depok, West Java, Indonesia; ardiyansyah.yatim@okstate.edu
-
-ID: 2170
-Nanofluids Application as Nanolubricants in Heat Pumps Systems
-Laura Fedele1, Laura Colla1, Mauro Scattolini1, Filippo Bellomare2, Sergio Bobbo1
-1Istituto per le Tecnologie della Costruzione, Consiglio Nazionale delle Ricerche, Corso Stati Uniti 4, 35131 Padova, Italy; 2Industrial Engineering Department, University of Padova, Via Venezia 1, 35131 Padova, Italy; sergio.bobbo@itc.cnr.it
-
-ID: 2347
-Influence of Oil on Heat Transfer Characteristics of R410A Flow Boiling in Conventional and Small Size Microfin Tubes
-Haitao Hu1, Hao Peng2, Guoliang Ding1, Yongxin Zheng3, Yifeng Gao3, Ji Song3
-1Shanghai Jiao Tong University, China, People's Republic of; 2Key Lab of HVAC, Beijing University of Civil Engineering and Architecture, China, People's Republic of; 3International Copper Association Shanghai Office, China, People's Republic of; huhaitao2001@sjtu.edu.cn
-
- 
-C-22: Testing & Evaluation
-Time: Thursday, 17/Jul/2014: 1:00pm - 3:00pm  •  Location: 314
-ID: 1549
-Modeling of a Hot Gas Bypass Test Block for Centrifugal Compressors
-Paul D. Gessler, Margaret M. Mathison, Anthony J. Bowman
-Marquette University, United States of America; paul.gessler@marquette.edu
-
-ID: 1539
-Design of a Compressor Load Stand Capable of Supplying Two-Phase Refrigerant at Two Intermediate Pressures
-Rui Gu, Margaret M. Mathison
-Marquette University, United States of America; margaret.mathison@marquette.edu
-
-ID: 1650
-Assessing the Quality of Experimental Data with Gaussian Processes: Example with an Injection Scroll Compressor
-Sylvain Quoilin1, Jessica Schrouff2
-1Energy Systems Research Unit B49, University of Liège, Campus du Sart Tilman, B-4000 Liège, Belgique; 2Cyclotron Research Centre B30, University of Liège, Campus du Sart Tilman B-4000 Liège, Belgique; squoilin@ulg.ac.be
-
-ID: 1130
-Study on Gravity Independence of Compressor Performance for Space-borne Vapor Compression Heat Pump
-Xia Chen, Yuting Wu, Gang Liu, Rui Ma, Chongfang Ma
-Key Laboratory of Enhanced Heat Transfer and Energy Conservation, Ministry of Education of China, Key Laboratory of Heat Transfer and Energy Conversion, Beijing Municipality, Beijing University of Technology, Beijing 100124, China; xiachen@bjut.edu.cn
-
-ID: 1290
-Performance Measurement of Revolving Vane Compressor
-Kok Ming Tan1, Wei Chong Choo1, Michael Chee1, Ken Law1, Ismail Iswan1, Kim Tiow Ooi2
-1SANDEN INTERNATIONAL SINGAPORE PTE LTD, SINGAPORE; 2NANYANG TECHNOLOGICAL UNIVERSITY, SINGAPORE; tan_kok_ming@sanden.com.sg
-
-ID: 1376
-Experimental Analysis of Refrigerant Flow in Small Clearances
-Ernane Silva, Marcos Rojas-Cárdenas, Cesar J. Deschamps
-POLO/UFSC, Brazil; ernane@polo.ufsc.br
-
- 
-C-23: Valves II
-Time: Thursday, 17/Jul/2014: 1:00pm - 3:00pm  •  Location: 206
-ID: 1315
-A Comparative Study Of Different Numerical Models For Flapper Valve Motion
-Joerg Mayer, Preben Bjerre, Fabian Brune
-Secop GmbH, Germany; j.mayer@secop.com
-
-ID: 1428
-Numerical Simulation on the Opening Delay of a Discharge Reed Valve in Compressors
-Fumitaka Yoshizumi1, Yasuhiro Kondoh1, Takahiro Moroi2, Shinji Tamano3, Yohei Morinishi3
-1Toyota Central R&D Labs., Inc.; 2Toyota Industries Co.; 3Nagoya Institute of Technology; fyoshi@mosk.tytlabs.co.jp
-
-ID: 1464
-Prediction of Refrigerant Leakage for Discharge Valve System in A Rolling Piston Rotary Compressor
-Byung Chae Min, Ki Youl Noh, Jang Sik Yang, Gyung Min Choi, Duck Jool Kim
-Pusan National University, Korea, Republic of (South Korea); bcmin@pusan.ac.kr
-
-ID: 1324
-Correlation Between the Fluid Structure Interaction Method and Experimental Analysis of Bending Stress of a Variable Capacity Compressor Suction Valve
-Julio Cesar Silva1, Eduardo Arceno2
-1Embraco - Research and Development, Brazil; 2Embraco - Research and Development, Brazil; julio_c_silva@embraco.com.br
-
+Ecole Polytechnique Federale de Lausanne, Switzerland; noemail@email.com
 
